@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/" />
+  <remote name="gitlab" fetch="https://gitlab.com/" />
+  <remote name="bitbucket" fetch="https://bitbucket.org/" />
+  <!-- revision="refs/heads/main" -->
+  <default remote="github" sync-j="8" />
+  <project path="abo/.emacs" name="abo-abo/oremacs" groups="abo" />
+  <project path="geolessel/.files" name="geolessel/dotfiles"
+  groups="geolessel" />
+  <project path="purcell/.emacs" name="purcell/emacs.d"
+  groups="purcell" />
+  <project path="tuhdo/.emacs" name="tuhdo/emacs-c-ide-demo"
+  groups="tuhdo" />
+  <project path="karthink/.emacs" name="karthink/.emacs.d"
+  groups="karthink" />
+  <project path="hsinhaoyu/.doom" name="hsinhaoyu/.emacs.d"
+  groups="hsinhaoyu" />
+  <project path="blejdfist/.emacs" name="blejdfist/dotfiles"
+  groups="blejdfist" />
+  <project path="dwt1/.doom" name="dwt1/dotfiles/" groups="dwt1"
+  remote="gitlab" />
+  <project path="HaoZeke/.doom" name="HaoZeke/dotdoom"
+  groups="HaoZeke" />
+  <project path="HaoZeke/.files" name="HaoZeke/Dotfiles"
+  groups="HaoZeke" />
+  <project path="Brettm12345/.emacs"
+  name="Brettm12345/doom-emacs-literate-config"
+  groups="Brettm12345" />
+  <project path="xahlee/.emacs" name="xahlee/xahscripts"
+  groups="xahlee" />
+  <project path="mwfogleman/.emacs" name="mwfogleman/.emacs.d"
+  groups="mwfogleman" />
+  <project path="tammymakesthings/.emacs"
+  name="tammymakesthings/emacs_d" groups="tammymakesthings" />
+  <project path="lccambiaghi/.doom" name="lccambiaghi/.doom.d"
+  groups="lccambiaghi" />
+  <project path="ubolonton/.files" name="ubolonton/dotfiles"
+  groups="ubolonton" />
+  <project path="ubolonton/.emacs" name="ubolonton/.emacs.d"
+  groups="ubolonton" />
+  <project path="aborn/.files" name="aborn/dotfiles"
+  groups="aborn" />
+  <project path="hlissner/.files" name="hlissner/dotfiles"
+  groups="hlissner" />
+  <project path="protesilaos/.files"
+  name="protesilaos/dotfiles.git" groups="protesilaos"
+  remote="gitlab" fetch="refs/heads/master" />
+  <project path="aborn/.space" name="aborn/.spacemacs.d"
+  groups="aborn" />
+  <project path="zzamboni/.doom" name="zzamboni/dot-doom"
+  groups="zzamboni" />
+  <project path="magnars/.emacs" name="magnars/.emacs.d"
+  groups="magnars" />
+  <project path="lccambiaghi/.emacs"
+  name="lccambiaghi/vanilla-emacs" groups="lccambiaghi" />
+  <project path="sunnyhasija/.doom"
+  name="sunnyhasija/Academic-Doom-Emacs-Config"
+  groups="sunnyhasija" />
+  <project path="xahlee/.files" name="xahlee/xah_emacs_init"
+  groups="xahlee" />
+  <project path="bbatsov/.emacs" name="bbatsov/emacs.d"
+  groups="bbatsov" />
+  <project path="zamansky/.emacs" name="zamansky/dot-emacs"
+  groups="zamansky" />
+  <project path="hlissner/.emacs"
+  name="hlissner/doom-emacs-private" groups="hlissner" />
+  <project path="daedreth/.emacs" name="daedreth/UncleDavesEmacs"
+  groups="daedreth" />
+  <project path="joseph8th/.emacs" name="joseph8th/literatemacs"
+  groups="joseph8th" />
+  <project path="rasendubi/.emacs" name="rasendubi/dotfiles"
+  groups="rasendubi" />
+  <project path="bbatsov/prelude" name="bbatsov/prelude"
+  groups="bbatsov" />
+  <project path="TimQuelch/.doom" name="TimQuelch/emacs.d"
+  groups="TimQuelch" />
+  <project path="frap/.emacs" name="frap/emacs-literate"
+  groups="frap" />
+</manifest>
