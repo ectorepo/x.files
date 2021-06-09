@@ -5,7 +5,8 @@
   <remote name="bitbucket" fetch="https://bitbucket.org/" />
   <!-- revision="refs/heads/main" -->
   <default remote="github" sync-j="8" />
-  <project path="abo/.emacs" name="abo-abo/oremacs" groups="abo" />
+  <project path="abo-abo/.emacs" name="abo-abo/oremacs"
+  groups="abo-abo" />
   <project path="geolessel/.files" name="geolessel/dotfiles"
   groups="geolessel" />
   <project path="purcell/.emacs" name="purcell/emacs.d"
@@ -18,7 +19,9 @@
   groups="hsinhaoyu" />
   <project path="blejdfist/.emacs" name="blejdfist/dotfiles"
   groups="blejdfist" />
-  <project path="dwt1/.doom" name="dwt1/dotfiles/" groups="dwt1"
+  <project path="daviwil/.files" name="daviwil/dotfiles"
+  groups="daviwil" remote="github" />
+  <project path="dwt1/.doom" name="dwt1/dotfiles" groups="dwt1"
   remote="gitlab" />
   <project path="HaoZeke/.doom" name="HaoZeke/dotdoom"
   groups="HaoZeke" />
@@ -57,6 +60,9 @@
   <project path="sunnyhasija/.doom"
   name="sunnyhasija/Academic-Doom-Emacs-Config"
   groups="sunnyhasija" />
+  <project path="sachac/.emacs.d"
+  name="sachac/.emacs.d"
+  groups="sachac" />
   <project path="xahlee/.files" name="xahlee/xah_emacs_init"
   groups="xahlee" />
   <project path="bbatsov/.emacs" name="bbatsov/emacs.d"
