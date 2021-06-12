@@ -13,26 +13,18 @@
 
   <project path="bbatsov/.emacs"
            name="bbatsov/emacs.d"
-           repo="github"
-           revision="refs/heads/master"
            groups="bbatsov,emacs" />
 
   <project path="geolessel/.files"
            name="geolessel/dotfiles"
-           repo="github"
-           revision="refs/heads/master"
            groups="geolessel,dotfiles" />
 
   <project path="purcell/.emacs"
            name="purcell/emacs.d"
-           repo="github"
-           revision="refs/heads/master"
            groups="purcell,emacs" />
 
   <project path="tuhdo/.emacs"
            name="tuhdo/emacs-c-ide-demo"
-           repo="github"
-           revision="refs/heads/master"
            groups="tuhdo,emacs" />
 
   <project path="karthink/.emacs"
@@ -43,14 +35,23 @@
            name="hsinhaoyu/.emacs.d"
            groups="hsinhaoyu,doom" />
 
-  <!-- <project path="blejdfist/.emacs" name="blejdfist/dotfiles" -->
-  <!-- groups="blejdfist" /> -->
-  <!-- <project path="daviwil/.files" name="daviwil/dotfiles" -->
-  <!-- groups="daviwil" remote="github" /> -->
-  <!-- <project path="dwt1/.doom" name="dwt1/dotfiles" groups="dwt1" -->
-  <!-- remote="gitlab" /> -->
-  <!-- <project path="HaoZeke/.doom" name="HaoZeke/dotdoom" -->
-  <!-- groups="HaoZeke" /> -->
+  <project path="blejdfist/.files"
+           name="blejdfist/dotfiles"
+           groups="blejdfist,dotfiles" />
+
+  <project path="daviwil/.files"
+           name="daviwil/dotfiles"
+           groups="daviwil,dotfiles" />
+
+  <project path="dwt1/.files"
+           name="dwt1/dotfiles"
+           groups="dwt1,dotfiles"
+           remote="gitlab" />
+
+  <project path="HaoZeke/.doom"
+           name="HaoZeke/dotdoom"
+           groups="HaoZeke" />
+
   <!-- <project path="HaoZeke/.files" name="HaoZeke/Dotfiles" -->
   <!-- groups="HaoZeke" /> -->
   <!-- <project path="Brettm12345/.emacs" -->
