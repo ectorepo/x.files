@@ -132,30 +132,31 @@
 
   <project path="zamansky/.emacs"
            name="zamansky/dot-emacs"
-           groups="zamansky" />
+           revision="refs/heads/main"
+           groups="zamansky,emacs" />
 
   <project path="hlissner/.emacs"
            name="hlissner/doom-emacs-private"
-           groups="hlissner" />
+           groups="hlissner,doom" />
 
   <project path="daedreth/.emacs"
            name="daedreth/UncleDavesEmacs"
-           groups="daedreth" />
+           groups="daedreth,emacs" />
 
   <project path="joseph8th/.emacs"
            name="joseph8th/literatemacs"
-           groups="joseph8th" />
+           groups="joseph8th,emacs" />
 
   <project path="rasendubi/.emacs"
            name="rasendubi/dotfiles"
-           groups="rasendubi" />
+           groups="rasendubi,emacs" />
 
   <project path="TimQuelch/.doom"
            name="TimQuelch/emacs.d"
-           groups="TimQuelch" />
+           groups="TimQuelch,doom" />
 
   <project path="frap/.emacs"
            name="frap/emacs-literate"
-           groups="frap" />
+           groups="frap,emacs" />
 
 </manifest>
