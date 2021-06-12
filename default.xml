@@ -9,7 +9,7 @@
   <project path="abo-abo/.emacs"
            name="abo-abo/oremacs"
            revision="refs/heads/github"
-           groups="abo-abo" />
+           groups="abo-abo,emacs" />
 
   <project path="bbatsov/.emacs"
            name="bbatsov/emacs.d"
@@ -21,24 +21,28 @@
            name="geolessel/dotfiles"
            repo="github"
            revision="refs/heads/master"
-           groups="geolessel" />
+           groups="geolessel,dotfiles" />
 
   <project path="purcell/.emacs"
            name="purcell/emacs.d"
            repo="github"
            revision="refs/heads/master"
-           groups="purcell" />
+           groups="purcell,emacs" />
 
   <project path="tuhdo/.emacs"
            name="tuhdo/emacs-c-ide-demo"
            repo="github"
            revision="refs/heads/master"
-           groups="tuhdo" />
+           groups="tuhdo,emacs" />
 
-  <!-- <project path="karthink/.emacs" name="karthink/.emacs.d" -->
-  <!-- groups="karthink" /> -->
-  <!-- <project path="hsinhaoyu/.doom" name="hsinhaoyu/.emacs.d" -->
-  <!-- groups="hsinhaoyu" /> -->
+  <project path="karthink/.emacs"
+           name="karthink/.emacs.d"
+           groups="karthink,emacs" />
+
+  <project path="hsinhaoyu/.doom"
+           name="hsinhaoyu/.emacs.d"
+           groups="hsinhaoyu,doom" />
+
   <!-- <project path="blejdfist/.emacs" name="blejdfist/dotfiles" -->
   <!-- groups="blejdfist" /> -->
   <!-- <project path="daviwil/.files" name="daviwil/dotfiles" -->
