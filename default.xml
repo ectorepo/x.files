@@ -50,21 +50,42 @@
 
   <project path="HaoZeke/.doom"
            name="HaoZeke/dotdoom"
-           groups="HaoZeke" />
+           groups="HaoZeke,doom" />
 
-  <!-- <project path="HaoZeke/.files" name="HaoZeke/Dotfiles" -->
-  <!-- groups="HaoZeke" /> -->
-  <!-- <project path="Brettm12345/.emacs" -->
-  <!-- name="Brettm12345/doom-emacs-literate-config" -->
-  <!-- groups="Brettm12345" /> -->
-  <!-- <project path="xahlee/.emacs" name="xahlee/xahscripts" -->
-  <!-- groups="xahlee" /> -->
-  <!-- <project path="mwfogleman/.emacs" name="mwfogleman/.emacs.d" -->
-  <!-- groups="mwfogleman" /> -->
-  <!-- <project path="tammymakesthings/.emacs" -->
-  <!-- name="tammymakesthings/emacs_d" groups="tammymakesthings" /> -->
-  <!-- <project path="lccambiaghi/.doom" name="lccambiaghi/.doom.d" -->
-  <!-- groups="lccambiaghi" /> -->
+  <project path="HaoZeke/.files"
+           name="HaoZeke/Dotfiles"
+           groups="HaoZeke,dotfiles" />
+
+  <project path="Brettm12345/.emacs"
+           name="Brettm12345/doom-emacs-literate-config"
+           groups="Brettm12345,emacs" />
+
+  <project path="xahlee/.files"
+           name="xahlee/xahscripts"
+           groups="xahlee,scripts" />
+
+  <project path="xahlee/.emacs"
+           name="xahlee/xah_emacs_init"
+           groups="xahlee,emacs" />
+
+  <project path="mwfogleman/.emacs"
+           name="mwfogleman/.emacs.d"
+           groups="mwfogleman,emacs,buddhism" />
+
+  <project path="tammymakesthings/.emacs"
+           name="tammymakesthings/emacs_d"
+           fetch="refs/heads/main"
+           groups="tammymakesthings,emacs" />
+
+  <project path="lccambiaghi/.doom"
+           name="lccambiaghi/.doom.d"
+           groups="lccambiaghi" />
+
+  <project path="lccambiaghi/.emacs"
+           name="lccambiaghi/vanilla-emacs"
+           fetch="refs/heads/main"
+           groups="lccambiaghi" />
+
   <!-- <project path="ubolonton/.files" name="ubolonton/dotfiles" -->
   <!-- groups="ubolonton" /> -->
   <!-- <project path="ubolonton/.emacs" name="ubolonton/.emacs.d" -->
@@ -82,16 +103,12 @@
   <!-- groups="zzamboni" /> -->
   <!-- <project path="magnars/.emacs" name="magnars/.emacs.d" -->
   <!-- groups="magnars" /> -->
-  <!-- <project path="lccambiaghi/.emacs" -->
-  <!-- name="lccambiaghi/vanilla-emacs" groups="lccambiaghi" /> -->
   <!-- <project path="sunnyhasija/.doom" -->
   <!-- name="sunnyhasija/Academic-Doom-Emacs-Config" -->
   <!-- groups="sunnyhasija" /> -->
   <!-- <project path="sachac/.emacs" -->
   <!-- name="sachac/.emacs.d" -->
   <!-- groups="sachac" /> -->
-  <!-- <project path="xahlee/.files" name="xahlee/xah_emacs_init" -->
-  <!-- groups="xahlee" /> -->
   <!-- <project path="zamansky/.emacs" name="zamansky/dot-emacs" -->
   <!-- groups="zamansky" /> -->
   <!-- <project path="hlissner/.emacs" -->
