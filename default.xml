@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <remote name="github" fetch="https://github.com/" />
-  <remote name="gitlab" fetch="https://gitlab.com/" />
-  <remote name="bitbucket" fetch="https://bitbucket.org/" />
-  <!-- revision="refs/heads/main" -->
-  <default remote="github" sync-j="8" />
-  <project path="abo-abo/.emacs" name="abo-abo/oremacs"
-  groups="abo-abo" />
+  <include name="_remotes.xml" />
+
+  <default remote="github"
+           sync-j="8"
+           revision="refs/heads/master" />
+
+  <!-- <project path="abo-abo/.emacs" -->
+  <!--          name="abo-abo/oremacs" -->
+  <!--          groups="abo-abo" /> -->
+
+  <project path="bbatsov/.emacs"
+           name="bbatsov/emacs.d"
+           repo="github"
+           revision="refs/heads/master"
+           groups="bbatsov,emacs" />
+
   <!-- <project path="geolessel/.files" name="geolessel/dotfiles" -->
   <!-- groups="geolessel" /> -->
   <!-- <project path="purcell/.emacs" name="purcell/emacs.d" -->
@@ -60,13 +69,11 @@
   <!-- <project path="sunnyhasija/.doom" -->
   <!-- name="sunnyhasija/Academic-Doom-Emacs-Config" -->
   <!-- groups="sunnyhasija" /> -->
-  <!-- <project path="sachac/.emacs.d" -->
+  <!-- <project path="sachac/.emacs" -->
   <!-- name="sachac/.emacs.d" -->
   <!-- groups="sachac" /> -->
   <!-- <project path="xahlee/.files" name="xahlee/xah_emacs_init" -->
   <!-- groups="xahlee" /> -->
-  <!-- <project path="bbatsov/.emacs" name="bbatsov/emacs.d" -->
-  <!-- groups="bbatsov" /> -->
   <!-- <project path="zamansky/.emacs" name="zamansky/dot-emacs" -->
   <!-- groups="zamansky" /> -->
   <!-- <project path="hlissner/.emacs" -->
