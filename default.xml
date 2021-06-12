@@ -74,7 +74,7 @@
 
   <project path="tammymakesthings/.emacs"
            name="tammymakesthings/emacs_d"
-           fetch="refs/heads/main"
+           revision="refs/heads/main"
            groups="tammymakesthings,emacs" />
 
   <project path="lccambiaghi/.doom"
@@ -83,7 +83,7 @@
 
   <project path="lccambiaghi/.emacs"
            name="lccambiaghi/vanilla-emacs"
-           fetch="refs/heads/main"
+           revision="refs/heads/main"
            groups="lccambiaghi" />
 
   <!-- <project path="ubolonton/.files" name="ubolonton/dotfiles" -->
