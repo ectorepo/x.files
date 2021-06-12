@@ -6,9 +6,10 @@
            sync-j="8"
            revision="refs/heads/master" />
 
-  <!-- <project path="abo-abo/.emacs" -->
-  <!--          name="abo-abo/oremacs" -->
-  <!--          groups="abo-abo" /> -->
+  <project path="abo-abo/.emacs"
+           name="abo-abo/oremacs"
+           revision="refs/heads/github"
+           groups="abo-abo" />
 
   <project path="bbatsov/.emacs"
            name="bbatsov/emacs.d"
