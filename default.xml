@@ -17,12 +17,24 @@
            revision="refs/heads/master"
            groups="bbatsov,emacs" />
 
-  <!-- <project path="geolessel/.files" name="geolessel/dotfiles" -->
-  <!-- groups="geolessel" /> -->
-  <!-- <project path="purcell/.emacs" name="purcell/emacs.d" -->
-  <!-- groups="purcell" /> -->
-  <!-- <project path="tuhdo/.emacs" name="tuhdo/emacs-c-ide-demo" -->
-  <!-- groups="tuhdo" /> -->
+  <project path="geolessel/.files"
+           name="geolessel/dotfiles"
+           repo="github"
+           revision="refs/heads/master"
+           groups="geolessel" />
+
+  <project path="purcell/.emacs"
+           name="purcell/emacs.d"
+           repo="github"
+           revision="refs/heads/master"
+           groups="purcell" />
+
+  <project path="tuhdo/.emacs"
+           name="tuhdo/emacs-c-ide-demo"
+           repo="github"
+           revision="refs/heads/master"
+           groups="tuhdo" />
+
   <!-- <project path="karthink/.emacs" name="karthink/.emacs.d" -->
   <!-- groups="karthink" /> -->
   <!-- <project path="hsinhaoyu/.doom" name="hsinhaoyu/.emacs.d" -->
