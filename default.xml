@@ -6,8 +6,7 @@
            sync-j="8"
            revision="refs/heads/master" />
 
-<!-- branch name: github, --
-  -- the only correct answer to master/main -->
+<!-- branch name: github, the only correct answer to master/main -->
 
   <project path="abo-abo/.emacs"
            name="abo-abo/oremacs"
