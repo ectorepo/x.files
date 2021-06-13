@@ -165,6 +165,6 @@
 
   <project path="kubemacs/emacs"
            name="kubemacs/kubemacs"
-           groups="kubemacs,emacs">
+           groups="kubemacs,emacs" />
 
 </manifest>
