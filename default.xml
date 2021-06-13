@@ -45,6 +45,10 @@
            name="daviwil/dotfiles"
            groups="daviwil,dotfiles" />
 
+  <project path="daviwil/emacs"
+           name="daviwil/emacs-from-scratch"
+           groups="daviwil,emacs" />
+
   <project path="dwt1/dotfiles"
            name="dwt1/dotfiles"
            groups="dwt1,dotfiles"
