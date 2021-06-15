@@ -167,4 +167,8 @@
            name="kubemacs/kubemacs"
            groups="kubemacs,emacs" />
 
+  <project path="tecosaur/doom"
+           name="tecosaur/emacs-config"
+           groups="tecosaur,doom" />
+
 </manifest>
