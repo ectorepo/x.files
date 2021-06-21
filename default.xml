@@ -171,4 +171,15 @@
            name="tecosaur/emacs-config"
            groups="tecosaur,doom" />
 
+  <project path="dfeich/org-babel-examples"
+           name="dfeich/org-babel-examples"
+           groups="dfeich,emacs" />
+
+  <project path="dfeich/emacs-course"
+           name="dfeich/emacs-course"
+           groups="dfeich,emacs" />
+
+  <project path="dfeich/emacs-course-and-config"
+           name="dfeich/emacs-course-and-config"
+           groups="dfeich,emacs" />
 </manifest>
