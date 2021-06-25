@@ -139,7 +139,7 @@
            revision="refs/heads/main"
            groups="zamansky,emacs" />
 
-  <project path="hlissner/emacs"
+  <project path="hlissner/doom"
            name="hlissner/doom-emacs-private"
            groups="hlissner,doom" />
 
@@ -182,4 +182,8 @@
   <project path="dfeich/emacs-course-and-config"
            name="dfeich/emacs-course-and-config"
            groups="dfeich,emacs" />
+
+  <project path="jethrokuan/dotfiles"
+           name="jethrokuan/dots"
+           groups="jethrokuan,dotfiles,doom" />
 </manifest>
