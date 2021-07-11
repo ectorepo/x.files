@@ -186,4 +186,12 @@
   <project path="jethrokuan/dotfiles"
            name="jethrokuan/dots"
            groups="jethrokuan,dotfiles,doom" />
+
+  <project path="jethrokuan/org"
+           name="jethrokuan/braindump"
+           groups="jethrokuan,org" />
+
+  <project path="MenkeTechnologies/zpwr"
+           name="MenkeTechnologies/zpwr"
+           groups="MenkeTechnologies,dotfiles,frameworks" />
 </manifest>
