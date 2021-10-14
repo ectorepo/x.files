@@ -197,6 +197,7 @@
 
   <project path="Scrumplex/dotfiles"
            name="Scrumplex/dotfiles"
+           remote="gitlab"
            groups="Scrumplex,dotfiles,arch,fish,sway,waybar" />
 
   <project path="sistematico/dotfiles"
