@@ -66,14 +66,6 @@
            name="Brettm12345/doom-emacs-literate-config"
            groups="Brettm12345,emacs" />
 
-  <project path="xahlee/dotfiles"
-           name="xahlee/xahscripts"
-           groups="xahlee,scripts" />
-
-  <project path="xahlee/emacs"
-           name="xahlee/xah_emacs_init"
-           groups="xahlee,emacs" />
-
   <project path="mwfogleman/emacs"
            name="mwfogleman/.emacs.d"
            groups="mwfogleman,emacs,buddhism" />
@@ -221,6 +213,7 @@
 
   <project path="benmezger/dotfiles"
            name="benmezger/dotfiles"
+           revision="refs/heads/main"
            groups="benmezger,dotfiles,i3,emacs,tmux" />
 
   <project path="BVollmerhaus/dotfiles"
