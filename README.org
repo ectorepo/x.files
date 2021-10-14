@@ -1,0 +1,43 @@
+
+** To Add:
++ arch users: https://wiki.archlinux.org/title/Dotfiles
+
+  + https://git.sitilge.id.lv/sitilge/dotfiles
+  + https://git.sr.ht/~gardenapple/dotfiles
++ Waybar: https://wiki.archlinux.org/title/Dotfiles
+  + best
+    + https://git.sr.ht/~oscarcp/ghostfiles
+    + https://git.sr.ht/~begs/dotfiles
+  + dotfiles
+    + https://github.com/Robinhuett/dotfiles
+    + https://github.com/Egosummiki/dotfiles
+    + https://github.com/mhdzli/dotfiles
+      - includes custom keyboard layout
+    + https://github.com/robertjk/dotfiles
+    + https://github.com/carlosdss22/dotfiles
+    + https://github.com/adbus/dotfiles
+    + https://github.com/qoheniac/config
+    + https://gitlab.com/jbaurenberger/dotfiles
+    + https://git.sr.ht/~wtl/lib
+    + https://github.com/Pipshag/dotfiles_nord
+
+  + modules:
+    + https://wiki.archlinux.org/title/Dotfiles
+
++ emacs users
+  + [[https://github.com/stardiviner?tab=repositories][Stardiviner]]
+
++ cloud configs
+  + xcad2k/boilerplate (cloud centric, perhaps add to another repo)
+
+
++ [[to1ne/literate-dotfiles][https://gitlab.com/to1ne/literate-dotfiles]]
++ [[pniedzielski/dotfiles-ng][https://github.com/pniedzielski/dotfiles-ng]]
++ [[krismolendyke/dotfiles][https://github.com/krismolendyke/dotfiles/blob/master/README.org]]
+
+*** Guix/Home profiles
++ Guix Home: https://git.sr.ht/~krevedkokun/guix-channel
++ Guix Home: https://hg.sr.ht/~yoctocell/guixrc (mercurial)
++ Guix Home: https://git.ht/~abcdw/nonrde/
++ RDE: https://git.sr.ht/~abcdw/rde/
++ (need sourcehut remote)

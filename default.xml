@@ -194,4 +194,57 @@
   <project path="MenkeTechnologies/zpwr"
            name="MenkeTechnologies/zpwr"
            groups="MenkeTechnologies,dotfiles,frameworks" />
+
+  <project path="whitelynx/dotfiles"
+           name="whitelynx/dotfiles"
+           groups="whitelynx,dotfiles,vim" />
+
+  <project path="thiagowfx/dotfiles"
+           name="thiagowfx/.dotfiles"
+           groups="thiagowfx,dotfiles,arch,i3,vim,alacritty" />
+
+  <project path="Scrumplex/dotfiles"
+           name="Scrumplex/dotfiles"
+           groups="Scrumplex,dotfiles,arch,fish,sway,waybar" />
+
+  <project path="sistematico/dotfiles"
+           name="sistematico/majestic"
+           groups="sistematico,dotfiles,arch,i3,vim,polybar" />
+
+  <project path="maximbaz/dotfiles"
+           name="maximbaz/dotfiles"
+           groups="maximbaz,dotfiles,sway,kakoune,waybar" />
+
+  <project path="Jorengarenar/dotfiles"
+           name="Jorengarenar/dotfiles"
+           groups="Jorengarenar,dotfiles,bash,i3,vim" />
+
+  <project path="benmezger/dotfiles"
+           name="benmezger/dotfiles"
+           groups="benmezger,dotfiles,i3,emacs,tmux" />
+
+  <project path="BVollmerhaus/dotfiles"
+           name="BVollmerhaus/dotfiles"
+           groups="BVollmerhaus,dotfiles,kitty,fish,kakoune,polybar" />
+
+  <project path="ambrevar/dotfiles"
+           name="ambrevar/dotfiles"
+           groups="ambrevar,dotfiles,zsh,bspwm,vim,polybar" />
+
+  <project path="bamos/dotfiles"
+           name="bamos/dotfiles"
+           groups="bamos,dotfiles,i3,xmonad,mobar,vim,emacs" />
+
+  <project path="isti115/dotfiles"
+           name="isti115/dotfiles"
+           groups="isti115,dotfiles,pwsh,sway,vim,waybar" />
+
+  <project path="dpgraham4401/dotfiles"
+           name="dpgraham4401/dotfiles-sway"
+           groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" />
+
+  <project path="cjbassi/dotfiles"
+           name="cjbassi/config"
+           groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs" />
+
 </manifest>
