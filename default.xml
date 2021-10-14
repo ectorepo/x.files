@@ -218,6 +218,7 @@
 
   <project path="BVollmerhaus/dotfiles"
            name="BVollmerhaus/dotfiles"
+           remote="gitlab"
            groups="BVollmerhaus,dotfiles,kitty,fish,kakoune,polybar" />
 
   <project path="ambrevar/dotfiles"
