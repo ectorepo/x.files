@@ -24,6 +24,12 @@
   + modules:
     + https://wiki.archlinux.org/title/Dotfiles
 
++ XMonad
+  + https://github.com/jsoo1/dotfiles
+    - uses guix to install xmonad
+
++ Sway users
+  + https://git.sr.ht/~whynothugo/dotfiles/tree/main/item/home/.config/sway/config
 + emacs users
   + [[https://github.com/stardiviner?tab=repositories][Stardiviner]]
 

@@ -8,238 +8,63 @@
 
 <!-- branch name: github, the only correct answer to master/main -->
 
-  <project path="abo-abo/emacs"
-           name="abo-abo/oremacs"
-           revision="refs/heads/github"
-           groups="abo-abo,emacs" />
-
-  <project path="bbatsov/emacs"
-           name="bbatsov/emacs.d"
-           groups="bbatsov,emacs" />
-
-  <project path="geolessel/dotfiles"
-           name="geolessel/dotfiles"
-           groups="geolessel,dotfiles" />
-
-  <project path="purcell/emacs"
-           name="purcell/emacs.d"
-           groups="purcell,emacs" />
-
-  <project path="tuhdo/emacs"
-           name="tuhdo/emacs-c-ide-demo"
-           groups="tuhdo,emacs" />
-
-  <project path="karthink/emacs"
-           name="karthink/.emacs.d"
-           groups="karthink,emacs" />
-
-  <project path="hsinhaoyu/doom"
-           name="hsinhaoyu/.emacs.d"
-           groups="hsinhaoyu,doom" />
-
-  <project path="blejdfist/dotfiles"
-           name="blejdfist/dotfiles"
-           groups="blejdfist,dotfiles" />
-
-  <project path="daviwil/dotfiles"
-           name="daviwil/dotfiles"
-           groups="daviwil,dotfiles" />
-
-  <project path="daviwil/emacs"
-           name="daviwil/emacs-from-scratch"
-           groups="daviwil,emacs" />
-
-  <project path="dwt1/dotfiles"
-           name="dwt1/dotfiles"
-           groups="dwt1,dotfiles"
-           remote="gitlab" />
-
-  <project path="HaoZeke/doom"
-           name="HaoZeke/dotdoom"
-           groups="HaoZeke,doom" />
-
-  <project path="HaoZeke/dotfiles"
-           name="HaoZeke/Dotfiles"
-           groups="HaoZeke,dotfiles" />
-
-  <project path="Brettm12345/emacs"
-           name="Brettm12345/doom-emacs-literate-config"
-           groups="Brettm12345,emacs" />
-
-  <project path="mwfogleman/emacs"
-           name="mwfogleman/.emacs.d"
-           groups="mwfogleman,emacs,buddhism" />
-
-  <project path="tammymakesthings/emacs"
-           name="tammymakesthings/emacs_d"
-           revision="refs/heads/main"
-           groups="tammymakesthings,emacs" />
-
-  <project path="lccambiaghi/doom"
-           name="lccambiaghi/.doom.d"
-           groups="lccambiaghi,doom" />
-
-  <project path="lccambiaghi/emacs"
-           name="lccambiaghi/vanilla-emacs"
-           revision="refs/heads/main"
-           groups="lccambiaghi,emacs" />
-
-  <project path="ubolonton/dotfiles"
-           name="ubolonton/dotfiles"
-           groups="ubolonton,dotfiles" />
-
-  <project path="ubolonton/emacs"
-           name="ubolonton/.emacs.d"
-           groups="ubolonton,emacs" />
-
-  <project path="aborn/dotfiles"
-           name="aborn/dotfiles"
-           groups="aborn,dotfiles" />
-
-  <project path="aborn/space"
-           name="aborn/.spacemacs.d"
-           groups="aborn,space" />
-
-  <project path="hlissner/dotfiles"
-           name="hlissner/dotfiles"
-           groups="hlissner,dotfiles" />
-
-  <project path="protesilaos/dotfiles"
-           name="protesilaos/dotfiles.git"
-           groups="protesilaos,dotfiles"
-           remote="gitlab"
-           fetch="refs/heads/master" />
-
-  <project path="zzamboni/doom"
-           name="zzamboni/dot-doom"
-           groups="zzamboni,doom" />
-
-  <project path="magnars/emacs"
-           name="magnars/.emacs.d"
-           groups="magnars,emacs" />
-
-  <project path="sunnyhasija/doom"
-           name="sunnyhasija/Academic-Doom-Emacs-Config"
-           groups="sunnyhasija,doom" />
-
-  <project path="sachac/emacs"
-           name="sachac/.emacs.d"
-           groups="sachac,emacs" />
-
-  <project path="zamansky/emacs"
-           name="zamansky/dot-emacs"
-           revision="refs/heads/main"
-           groups="zamansky,emacs" />
-
-  <project path="hlissner/doom"
-           name="hlissner/doom-emacs-private"
-           groups="hlissner,doom" />
-
-  <project path="daedreth/emacs"
-           name="daedreth/UncleDavesEmacs"
-           groups="daedreth,emacs" />
-
-  <project path="joseph8th/emacs"
-           name="joseph8th/literatemacs"
-           groups="joseph8th,emacs" />
-
-  <project path="rasendubi/emacs"
-           name="rasendubi/dotfiles"
-           groups="rasendubi,emacs" />
-
-  <project path="TimQuelch/doom"
-           name="TimQuelch/emacs.d"
-           groups="TimQuelch,doom" />
-
-  <project path="frap/emacs"
-           name="frap/emacs-literate"
-           groups="frap,emacs" />
-
-  <project path="kubemacs/emacs"
-           name="kubemacs/kubemacs"
-           groups="kubemacs,emacs" />
-
-  <project path="tecosaur/doom"
-           name="tecosaur/emacs-config"
-           groups="tecosaur,doom" />
-
-  <project path="dfeich/org-babel-examples"
-           name="dfeich/org-babel-examples"
-           groups="dfeich,emacs" />
-
-  <project path="dfeich/emacs-course"
-           name="dfeich/emacs-course"
-           groups="dfeich,emacs" />
-
-  <project path="dfeich/emacs-course-and-config"
-           name="dfeich/emacs-course-and-config"
-           groups="dfeich,emacs" />
-
-  <project path="jethrokuan/dotfiles"
-           name="jethrokuan/dots"
-           groups="jethrokuan,dotfiles,doom" />
-
-  <project path="jethrokuan/org"
-           name="jethrokuan/braindump"
-           groups="jethrokuan,org" />
-
-  <project path="MenkeTechnologies/zpwr"
-           name="MenkeTechnologies/zpwr"
-           groups="MenkeTechnologies,dotfiles,frameworks" />
-
-  <project path="whitelynx/dotfiles"
-           name="whitelynx/dotfiles"
-           groups="whitelynx,dotfiles,vim" />
-
-  <project path="thiagowfx/dotfiles"
-           name="thiagowfx/.dotfiles"
-           groups="thiagowfx,dotfiles,arch,i3,vim,alacritty" />
-
-  <project path="Scrumplex/dotfiles"
-           name="Scrumplex/dotfiles"
-           remote="gitlab"
-           groups="Scrumplex,dotfiles,arch,fish,sway,waybar" />
-
-  <project path="sistematico/dotfiles"
-           name="sistematico/majestic"
-           groups="sistematico,dotfiles,arch,i3,vim,polybar" />
-
-  <project path="maximbaz/dotfiles"
-           name="maximbaz/dotfiles"
-           groups="maximbaz,dotfiles,sway,kakoune,waybar" />
-
-  <project path="Jorengarenar/dotfiles"
-           name="Jorengarenar/dotfiles"
-           groups="Jorengarenar,dotfiles,bash,i3,vim" />
-
-  <project path="benmezger/dotfiles"
-           name="benmezger/dotfiles"
-           revision="refs/heads/main"
-           groups="benmezger,dotfiles,i3,emacs,tmux" />
-
-  <project path="BVollmerhaus/dotfiles"
-           name="BVollmerhaus/dotfiles"
-           remote="gitlab"
-           groups="BVollmerhaus,dotfiles,kitty,fish,kakoune,polybar" />
-
-  <project path="ambrevar/dotfiles"
-           name="ambrevar/dotfiles"
-           groups="ambrevar,dotfiles,zsh,bspwm,vim,polybar" />
-
-  <project path="bamos/dotfiles"
-           name="bamos/dotfiles"
-           groups="bamos,dotfiles,i3,xmonad,mobar,vim,emacs" />
-
-  <project path="isti115/dotfiles"
-           name="isti115/dotfiles"
-           groups="isti115,dotfiles,pwsh,sway,vim,waybar" />
-
-  <project path="dpgraham4401/dotfiles"
-           name="dpgraham4401/dotfiles-sway"
-           groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" />
-
-  <project path="cjbassi/dotfiles"
-           name="cjbassi/config"
-           groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs" />
+   <project path="abo-abo/emacs" name="abo-abo/oremacs" revision="refs/heads/github" groups="abo-abo,emacs" />
+   <project path="bbatsov/emacs" name="bbatsov/emacs.d" groups="bbatsov,emacs" />
+   <project path="geolessel/dotfiles" name="geolessel/dotfiles" groups="geolessel,dotfiles" />
+   <project path="purcell/emacs" name="purcell/emacs.d" groups="purcell,emacs" />
+   <project path="tuhdo/emacs" name="tuhdo/emacs-c-ide-demo" groups="tuhdo,emacs" />
+   <project path="karthink/emacs" name="karthink/.emacs.d" groups="karthink,emacs" />
+   <project path="hsinhaoyu/doom" name="hsinhaoyu/.emacs.d" groups="hsinhaoyu,doom" />
+   <project path="blejdfist/dotfiles" name="blejdfist/dotfiles" groups="blejdfist,dotfiles" />
+   <project path="daviwil/dotfiles" name="daviwil/dotfiles" groups="daviwil,dotfiles" />
+   <project path="daviwil/emacs" name="daviwil/emacs-from-scratch" groups="daviwil,emacs" />
+   <project path="dwt1/dotfiles" name="dwt1/dotfiles" groups="dwt1,dotfiles" remote="gitlab" />
+   <project path="HaoZeke/doom" name="HaoZeke/dotdoom" groups="HaoZeke,doom" />
+   <project path="HaoZeke/dotfiles" name="HaoZeke/Dotfiles" groups="HaoZeke,dotfiles" />
+   <project path="Brettm12345/emacs" name="Brettm12345/doom-emacs-literate-config" groups="Brettm12345,emacs" />
+   <project path="mwfogleman/emacs" name="mwfogleman/.emacs.d" groups="mwfogleman,emacs,buddhism" />
+   <project path="tammymakesthings/emacs" name="tammymakesthings/emacs_d" revision="refs/heads/main" groups="tammymakesthings,emacs" />
+   <project path="lccambiaghi/doom" name="lccambiaghi/.doom.d" groups="lccambiaghi,doom" />
+   <project path="lccambiaghi/emacs" name="lccambiaghi/vanilla-emacs" revision="refs/heads/main" groups="lccambiaghi,emacs" />
+   <project path="ubolonton/dotfiles" name="ubolonton/dotfiles" groups="ubolonton,dotfiles" />
+   <project path="ubolonton/emacs" name="ubolonton/.emacs.d" groups="ubolonton,emacs" />
+   <project path="aborn/dotfiles" name="aborn/dotfiles" groups="aborn,dotfiles" />
+   <project path="aborn/space" name="aborn/.spacemacs.d" groups="aborn,space" />
+   <project path="hlissner/dotfiles" name="hlissner/dotfiles" groups="hlissner,dotfiles" />
+   <project path="protesilaos/dotfiles" name="protesilaos/dotfiles.git" groups="protesilaos,dotfiles" remote="gitlab" fetch="refs/heads/master" />
+   <project path="zzamboni/doom" name="zzamboni/dot-doom" groups="zzamboni,doom" />
+   <project path="magnars/emacs" name="magnars/.emacs.d" groups="magnars,emacs" />
+   <project path="sunnyhasija/doom" name="sunnyhasija/Academic-Doom-Emacs-Config" groups="sunnyhasija,doom" />
+   <project path="sachac/emacs" name="sachac/.emacs.d" groups="sachac,emacs" />
+   <project path="zamansky/emacs" name="zamansky/dot-emacs" revision="refs/heads/main" groups="zamansky,emacs" />
+   <project path="hlissner/doom" name="hlissner/doom-emacs-private" groups="hlissner,doom" />
+   <project path="daedreth/emacs" name="daedreth/UncleDavesEmacs" groups="daedreth,emacs" />
+   <project path="joseph8th/emacs" name="joseph8th/literatemacs" groups="joseph8th,emacs" />
+   <project path="rasendubi/emacs" name="rasendubi/dotfiles" groups="rasendubi,emacs" />
+   <project path="TimQuelch/doom" name="TimQuelch/emacs.d" groups="TimQuelch,doom" />
+   <project path="frap/emacs" name="frap/emacs-literate" groups="frap,emacs" />
+   <project path="kubemacs/emacs" name="kubemacs/kubemacs" groups="kubemacs,emacs" />
+   <project path="tecosaur/doom" name="tecosaur/emacs-config" groups="tecosaur,doom" />
+   <project path="dfeich/org-babel-examples" name="dfeich/org-babel-examples" groups="dfeich,emacs" />
+   <project path="dfeich/emacs-course" name="dfeich/emacs-course" groups="dfeich,emacs" />
+   <project path="dfeich/emacs-course-and-config" name="dfeich/emacs-course-and-config" groups="dfeich,emacs" />
+   <project path="jethrokuan/dotfiles" name="jethrokuan/dots" groups="jethrokuan,dotfiles,doom" />
+   <project path="jethrokuan/org" name="jethrokuan/braindump" groups="jethrokuan,org" />
+   <project path="MenkeTechnologies/zpwr" name="MenkeTechnologies/zpwr" groups="MenkeTechnologies,dotfiles,frameworks" />
+   <project path="whitelynx/dotfiles" name="whitelynx/dotfiles" groups="whitelynx,dotfiles,vim" />
+   <project path="thiagowfx/dotfiles" name="thiagowfx/.dotfiles" groups="thiagowfx,dotfiles,arch,i3,vim,alacritty" />
+   <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar" />
+   <project path="sistematico/dotfiles" name="sistematico/majestic" groups="sistematico,dotfiles,arch,i3,vim,polybar" />
+   <project path="maximbaz/dotfiles" name="maximbaz/dotfiles" groups="maximbaz,dotfiles,sway,kakoune,waybar" />
+   <project path="Jorengarenar/dotfiles" name="Jorengarenar/dotfiles" groups="Jorengarenar,dotfiles,bash,i3,vim" />
+   <project path="benmezger/dotfiles" name="benmezger/dotfiles" revision="refs/heads/main" groups="benmezger,dotfiles,i3,emacs,tmux" />
+   <project path="BVollmerhaus/dotfiles" name="BVollmerhaus/dotfiles" remote="gitlab" groups="BVollmerhaus,dotfiles,kitty,fish,kakoune,polybar" />
+   <project path="ambrevar/dotfiles" name="ambrevar/dotfiles" groups="ambrevar,dotfiles,zsh,bspwm,vim,polybar" />
+   <project path="bamos/dotfiles" name="bamos/dotfiles" groups="bamos,dotfiles,i3,xmonad,mobar,vim,emacs" />
+   <project path="isti115/dotfiles" name="isti115/dotfiles" groups="isti115,dotfiles,pwsh,sway,vim,waybar" />
+   <project path="dpgraham4401/dotfiles" name="dpgraham4401/dotfiles-sway" groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" />
+   <project path="cjbassi/dotfiles" name="cjbassi/config" groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs" />
+   <project path="gtrunsec/dotfiles" name="GTrunSec/nixos-flk" groups="gtrunsec,dotfiles,emacs,nixos,i3"/>
+   <project path="jsool/dotfiles" name="jsool/dotfiles" groups="jsool,dotfiles,xmonad,guix"/>
 
 </manifest>
