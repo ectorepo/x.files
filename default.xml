@@ -64,11 +64,11 @@
    <project path="isti115/dotfiles" name="isti115/dotfiles" groups="isti115,dotfiles,pwsh,sway,vim,waybar" />
    <project path="dpgraham4401/dotfiles" name="dpgraham4401/.dotfiles" groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" revision="refs/heads/fedora" />
 
-   <!-- TODO: dpgraham4401 has archws and macbook branches -->>
+   <!-- TODO: dpgraham4401 has archws and macbook branches -->
 
    <project path="cjbassi/dotfiles" name="cjbassi/config" groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs" />
    <project path="gtrunsec/dotfiles" name="GTrunSec/nixos-flk" groups="gtrunsec,dotfiles,emacs,nixos,i3"/>
    <project path="jsool/dotfiles" name="jsool/dotfiles" groups="jsool,dotfiles,xmonad,guix"/>
-   <project path="BonfaceKilz/emacs" name="BonfaceKils/emacs.d" groups="BonfaceKils,emacs"/>
+   <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs"/>
 
 </manifest>
