@@ -51,7 +51,7 @@
    <project path="jethrokuan/dotfiles" name="jethrokuan/dots" groups="jethrokuan,dotfiles,doom" />
    <project path="jethrokuan/org" name="jethrokuan/braindump" groups="jethrokuan,org" />
    <project path="MenkeTechnologies/zpwr" name="MenkeTechnologies/zpwr" groups="MenkeTechnologies,dotfiles,frameworks" />
-   <project path="whitelynx/dotfiles" name="whitelynx/dotfiles" groups="whitelynx,dotfiles,vim" />
+   <project path="whitelynx/dotfiles" name="whitelynx/dotfiles" groups="whitelynx,dotfiles,vim" revision="refs/heads/main" />
    <project path="thiagowfx/dotfiles" name="thiagowfx/.dotfiles" groups="thiagowfx,dotfiles,arch,i3,vim,alacritty" />
    <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar" />
    <project path="sistematico/dotfiles" name="sistematico/majestic" groups="sistematico,dotfiles,arch,i3,vim,polybar" />
@@ -62,7 +62,7 @@
    <project path="ambrevar/dotfiles" name="ambrevar/dotfiles" groups="ambrevar,dotfiles,zsh,bspwm,vim,polybar" />
    <project path="bamos/dotfiles" name="bamos/dotfiles" groups="bamos,dotfiles,i3,xmonad,mobar,vim,emacs" />
    <project path="isti115/dotfiles" name="isti115/dotfiles" groups="isti115,dotfiles,pwsh,sway,vim,waybar" />
-   <project path="dpgraham4401/dotfiles" name="dpgraham4401/dotfiles-sway" groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" />
+   <project path="dpgraham4401/dotfiles" name="dpgraham4401/dotfiles-sway" groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" revision="refs/heads/main" />
    <project path="cjbassi/dotfiles" name="cjbassi/config" groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs" />
    <project path="gtrunsec/dotfiles" name="GTrunSec/nixos-flk" groups="gtrunsec,dotfiles,emacs,nixos,i3"/>
    <project path="jsool/dotfiles" name="jsool/dotfiles" groups="jsool,dotfiles,xmonad,guix"/>
