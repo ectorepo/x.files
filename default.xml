@@ -67,9 +67,9 @@
    <!-- TODO: dpgraham4401 has archws and macbook branches -->
 
    <project path="cjbassi/dotfiles" name="cjbassi/config" groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs" />
-   <project path="gtrunsec/dotfiles" name="GTrunSec/nixos-flk" groups="gtrunsec,dotfiles,emacs,nixos,i3"/>
-   <!-- <project path="jsool/dotfiles" name="jsool/dotfiles" groups="jsool,dotfiles,xmonad,guix"/> -->
-   <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs"/>
-   <project path="LukeSmithxyz/dotfiles" name="LukeSmithxyz/voidrice" groups="LukeSmith,vim,dotfiles,dwm"/>
+   <project path="gtrunsec/dotfiles" name="GTrunSec/nixos-flk" groups="gtrunsec,dotfiles,emacs,nixos,i3" />
+   <project path="jsoo1/dotfiles" name="jsoo1/dotfiles" groups="jsool,dotfiles,xmonad,guix,tmux" revision="refs/heads/release" />
+   <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs" />
+   <project path="LukeSmithxyz/dotfiles" name="LukeSmithxyz/voidrice" groups="LukeSmith,vim,dotfiles,dwm" />
 
 </manifest>
