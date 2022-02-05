@@ -71,5 +71,6 @@
    <project path="jsoo1/dotfiles" name="jsoo1/dotfiles" groups="jsool,dotfiles,xmonad,guix,tmux" revision="refs/heads/release" />
    <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs" />
    <project path="LukeSmithxyz/dotfiles" name="LukeSmithxyz/voidrice" groups="LukeSmith,vim,dotfiles,dwm" />
+   <project path="kitnil/dotfiles" name="kitnil/dotfiles" groups="kitnil,ansible,dunst,guile,emacs,stumpwm,guix,tmux"/>
 
 </manifest>
