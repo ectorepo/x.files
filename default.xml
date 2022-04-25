@@ -10,7 +10,7 @@
 
    <project path="abo-abo/emacs" name="abo-abo/oremacs" revision="refs/heads/github" groups="abo-abo,emacs" />
    <project path="bbatsov/emacs" name="bbatsov/emacs.d" groups="bbatsov,emacs" />
-   <project path="geolessel/dotfiles" name="geolessel/dotfiles" groups="geolessel,dotfiles" />
+   <project path="geolessel/dotfiles" name="geolessel/dotfiles" groups="geolessel,dotfiles" revision="refs/heads/main" />
    <project path="purcell/emacs" name="purcell/emacs.d" groups="purcell,emacs" />
    <project path="tuhdo/emacs" name="tuhdo/emacs-c-ide-demo" groups="tuhdo,emacs" />
    <project path="karthink/emacs" name="karthink/.emacs.d" groups="karthink,emacs" />
@@ -51,7 +51,7 @@
    <project path="jethrokuan/dotfiles" name="jethrokuan/dots" groups="jethrokuan,dotfiles,doom" />
    <project path="jethrokuan/org" name="jethrokuan/braindump" groups="jethrokuan,org" />
    <project path="MenkeTechnologies/zpwr" name="MenkeTechnologies/zpwr" groups="MenkeTechnologies,dotfiles,frameworks" />
-   <project path="whitelynx/dotfiles" name="whitelynx/dotfiles" groups="whitelynx,dotfiles,vim" revision="refs/heads/main" />
+   <project path="whitelynx/dotfiles" name="whitelynx/dotfiles" revision="refs/heads/main" groups="whitelynx,dotfiles,vim" />
    <project path="thiagowfx/dotfiles" name="thiagowfx/.dotfiles" groups="thiagowfx,dotfiles,arch,i3,vim,alacritty" />
    <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar" />
    <project path="sistematico/dotfiles" name="sistematico/majestic" groups="sistematico,dotfiles,arch,i3,vim,polybar" />
@@ -68,7 +68,7 @@
 
    <project path="cjbassi/dotfiles" name="cjbassi/config" groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs" />
    <project path="gtrunsec/dotfiles" name="GTrunSec/nixos-flk" groups="gtrunsec,dotfiles,emacs,nixos,i3" />
-   <project path="jsoo1/dotfiles" name="jsoo1/dotfiles" groups="jsool,dotfiles,xmonad,guix,tmux" revision="refs/heads/release" />
+   <project path="jsoo1/dotfiles" name="jsoo1/dotfiles" revision="refs/heads/release" groups="jsool,dotfiles,xmonad,guix,tmux" />
    <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs" />
    <project path="LukeSmithxyz/dotfiles" name="LukeSmithxyz/voidrice" groups="LukeSmith,vim,dotfiles,dwm" />
    <project path="kitnil/dotfiles" name="kitnil/dotfiles" groups="kitnil,ansible,dunst,guile,emacs,stumpwm,guix,tmux"/>
