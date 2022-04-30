@@ -72,6 +72,7 @@
    <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs" />
    <project path="LukeSmithxyz/dotfiles" name="LukeSmithxyz/voidrice" groups="LukeSmith,vim,dotfiles,dwm" />
    <project path="kitnil/dotfiles" name="kitnil/dotfiles" groups="kitnil,ansible,dunst,guile,emacs,stumpwm,guix,tmux"/>
+   <project path="novoid/emacs" name="novoid/dot-emacs" groups="novoid,emacs,org" />
    <project path="dcunited001/dotfiles" name="dcunited001/ellipsis" groups="dcunited001,emacs,i3,sway,dotfiles,doom" />
    <project path="dcunited001/doom" name="dcunited001/dotfiles_doom" groups="dcunited001,emacs,doom" />
 
