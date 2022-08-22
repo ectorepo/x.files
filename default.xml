@@ -75,5 +75,5 @@
    <project path="novoid/emacs" name="novoid/dot-emacs" groups="novoid,emacs,org" />
    <project path="dcunited001/dotfiles" name="dcunited001/ellipsis" groups="dcunited001,emacs,i3,sway,dotfiles,doom" />
    <project path="dcunited001/doom" name="dcunited001/dotfiles_doom" groups="dcunited001,emacs,doom" />
-
+   <project path="phundrak/dotfiles" name="phundrak/dotfiles" remote="phundrak" groups="phundrak,emacs,yadm,arch" />
 </manifest>

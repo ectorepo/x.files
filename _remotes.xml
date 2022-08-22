@@ -6,4 +6,6 @@
           fetch="https://gitlab.com" />
   <remote name="bitbucket"
           fetch="https://bitbucket.org" />
+  <remote name="phundrak"
+          fetch="https://labs.phundrak.com" />
 </manifest>
