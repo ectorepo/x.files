@@ -62,7 +62,7 @@
    <project path="ambrevar/dotfiles" name="ambrevar/dotfiles" groups="ambrevar,dotfiles,zsh,bspwm,vim,polybar" />
    <project path="bamos/dotfiles" name="bamos/dotfiles" groups="bamos,dotfiles,i3,xmonad,mobar,vim,emacs" />
    <project path="isti115/dotfiles" name="isti115/dotfiles" groups="isti115,dotfiles,pwsh,sway,vim,waybar" />
-   <project path="dpgraham4401/dotfiles" name="dpgraham4401/.dotfiles" groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" revision="refs/heads/fedora-ws" />
+   <project path="dpgraham4401/dotfiles" name="dpgraham4401/.dotfiles" groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" revision="refs/heads/Fedora-ws" />
 
    <!-- TODO: dpgraham4401 has archws and macbook branches -->
 
