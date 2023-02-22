@@ -86,5 +86,6 @@
    <project path="nicolas-graves/dotfiles" name="nicolas-graves/dotfiles" groups="guix,guix-home,emacs" revision="refs/heads/main" />
    <project path="plattfot/emacs" name="dotemacs" groups="guix,guix-home,emacs" remote="srht_plattfot" />
    <project path="plattfot/emacs-plt" name="emacs-plt" groups="guix,guix-home,emacs" remote="srht_plattfot" />
+   <project path="michal_atlas/dotfiles" name="dotfiles" groups="guix,guix-home,emacs" remote="srht_michal_atlas" />
 
 </manifest>
