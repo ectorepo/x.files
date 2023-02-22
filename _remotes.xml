@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github"
-          fetch="https://github.com" />
-  <remote name="gitlab"
-          fetch="https://gitlab.com" />
-  <remote name="bitbucket"
-          fetch="https://bitbucket.org" />
-  <remote name="phundrak"
-          fetch="https://labs.phundrak.com" />
+  <remote name="github" fetch="https://github.com" />
+  <remote name="gitlab" fetch="https://gitlab.com" />
+  <remote name="bitbucket" fetch="https://bitbucket.org" />
+  <remote name="phundrak" fetch="https://labs.phundrak.com" />
+
+  <remote name="dthompson" fetch="https://git.dthompson.us" />
+  <remote name="sourceware" fetch="https://sourceware.org/git" />
+
+  <remote name="srht_sircmpwn" fetch="https://git.sr.ht/~sircmpwn" />
+  <remote name="srht_whereiseveryone" fetch="https://git.sr.ht/~whereiseveryone" />
+  <remote name="srht_abcdw" fetch="https://git.sr.ht/~abcdw" />
+  <remote name="srht_krevedkokun" fetch="https://git.sr.ht/~krevedkokun" />
+  <remote name="srht_akagi" fetch="https://git.sr.ht/~akagi" />
+  <remote name="srht_plattfot" fetch="https://git.sr.ht/~plattfot" />
+
 </manifest>

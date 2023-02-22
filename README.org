@@ -33,6 +33,9 @@
 + emacs users
   + [[https://github.com/stardiviner?tab=repositories][Stardiviner]]
 
+  + AngryBacon (latex)
+    - [[https://github.com/angrybacon/dot][dot]] and [[https://github.com/angrybacon/dotemacs][dotemacs]]
+
 + cloud configs
   + xcad2k/boilerplate (cloud centric, perhaps add to another repo)
 
@@ -47,3 +50,21 @@
 + Guix Home: https://git.ht/~abcdw/nonrde/
 + RDE: https://git.sr.ht/~abcdw/rde/
 + (need sourcehut remote)
+
+* Latex
+
+Users with emacs/latex configs:
+
+| user       | latex engine | notes |
+|------------+--------------+-------|
+| dfeich     |              |       |
+| rasendubi  |              |       |
+| jethrokuan |              |       |
+| phundrak   |              |       |
+| tecosaur   |              |       |
+| hsinhaoyu  |              |       |
+| abougouffa |              |       |
+| aboabo     |              |       |
+| ubolonton  |              |       |
+| novoid     |              |       |
+| ambrevar   |              |       |

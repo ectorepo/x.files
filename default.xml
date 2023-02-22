@@ -71,10 +71,20 @@
    <project path="jsoo1/dotfiles" name="jsoo1/dotfiles" revision="refs/heads/release" groups="jsool,dotfiles,xmonad,guix,tmux" />
    <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs" />
    <project path="LukeSmithxyz/dotfiles" name="LukeSmithxyz/voidrice" groups="LukeSmith,vim,dotfiles,dwm" />
-   <project path="kitnil/dotfiles" name="kitnil/dotfiles" groups="kitnil,ansible,dunst,guile,emacs,stumpwm,guix,tmux"/>
+   <project path="kitnil/dotfiles" name="kitnil/dotfiles" groups="kitnil,ansible,dunst,guile,emacs,stumpwm,guix,tmux" />
    <project path="novoid/emacs" name="novoid/dot-emacs" groups="novoid,emacs,org" />
    <project path="dcunited001/dotfiles" name="dcunited001/ellipsis" groups="dcunited001,emacs,i3,sway,dotfiles,doom" />
    <project path="dcunited001/doom" name="dcunited001/dotfiles_doom" groups="dcunited001,emacs,doom" />
    <project path="phundrak/dotfiles" name="phundrak/dotfiles" remote="phundrak" groups="phundrak,emacs,yadm,arch" />
-   <project path="abougouffa/dotfiles" name="abougouffa/dotfiles" revision="refs/heads/main" groups="doom,vim,spacemacs,tmux"></project>
+   <project path="abougouffa/dotfiles" name="abougouffa/dotfiles" revision="refs/heads/main" groups="doom,vim,spacemacs,tmux" />
+
+   <project path="alezost/dotfiles" name="alezost/config" groups="emacs,guix" />
+   <project path="alezost/emacs" name="alezost/emacs-config" groups="emacs,guix" />
+   <project path="alezost/shell" name="alezost/shell-config" groups="bash" />
+
+   <project path="akagi/dotfiles" name="guixrc" groups="guix,guix-home,emacs" remote="srht_akagi" />
+   <project path="nicolas-graves/dotfiles" name="nicolas-graves/dotfiles" groups="guix,guix-home,emacs" revision="refs/heads/main" />
+   <project path="plattfot/emacs" name="dotemacs" groups="guix,guix-home,emacs" remote="srht_plattfot" />
+   <project path="plattfot/emacs-plt" name="emacs-plt" groups="guix,guix-home,emacs" remote="srht_plattfot" />
+
 </manifest>
