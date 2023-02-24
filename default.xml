@@ -34,6 +34,12 @@
    <project path="protesilaos/dotfiles" name="protesilaos/dotfiles.git" groups="protesilaos,dotfiles" remote="gitlab" fetch="refs/heads/master" />
    <project path="zzamboni/doom" name="zzamboni/dot-doom" groups="zzamboni,doom" />
    <project path="magnars/emacs" name="magnars/.emacs.d" groups="magnars,emacs" />
+   <project path="jkitchin/emacs" name="jkitchin/scimax" groups="jkitchin,emacs" />
+   <project path="MatthewZMD/emacs" name="MatthewZMD/.emacs.d" groups="MatthewZMD,emacs" />
+   <project path="ergoemacs/emacs" name="ergoemacs/ergoemacs-mode" groups="ergoemacs,emacs" />
+   <project path="ocodo/emacs" name="ocodo/.emacs.d" groups="ocodo/.emacs.d" />
+   <project path="monkeyjunglejuice/emacs" name="monkeyjunglejuice/emacs.onboard" groups="monkeyjunglejuice,emacs" revision="refs/heads/main" />
+
    <project path="sunnyhasija/doom" name="sunnyhasija/Academic-Doom-Emacs-Config" groups="sunnyhasija,doom" />
    <project path="sachac/emacs" name="sachac/.emacs.d" groups="sachac,emacs" />
    <project path="zamansky/emacs" name="zamansky/dot-emacs" revision="refs/heads/main" groups="zamansky,emacs" />
