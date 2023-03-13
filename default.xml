@@ -94,5 +94,6 @@
    <project path="plattfot/emacs-plt" name="emacs-plt" groups="guix,guix-home,emacs" remote="srht_plattfot" />
    <project path="michal_atlas/dotfiles" name="dotfiles" groups="guix,guix-home,emacs" remote="srht_michal_atlas" />
    <project path="krevedkokun/dotfiles" name="dotfiles" groups="guix,guix-home,emacs" remote="srht_krevedkokun" />
+   <project path="progfolio/.emacs.d" name="progfolio/emacs" groups="emacs" />
 
 </manifest>
