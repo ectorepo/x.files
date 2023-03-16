@@ -101,5 +101,8 @@
    <project path="DiamondBond/emacs" name="DiamondBond/emacs" groups="emacs,gnus,consult" />
    <project path="DiamondBond/bin" name="DiamondBond/bin" groups="bin,icewm,dwm,rice" />
    <project path="DiamondBond/dotfiles" name="DiamondBond/dotfiles" groups="icewm,dwm,gnustep,rice" />
+   <project path="Nekoyuki/cheatsheets" name="Nekoyuki/cheat_sheets" groups="arch,cheatsheets,math,msys2,win,blog" />
+   <project path="Nekoyuki/dotfiles" name="Nekoyuki/dotfiles" groups="arch,cheatsheets,math,msys2,win" />
+
 
 </manifest>
