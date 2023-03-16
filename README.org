@@ -1,5 +1,5 @@
-
 ** To Add:
+
 + arch users: https://wiki.archlinux.org/title/Dotfiles
 
   + https://git.sitilge.id.lv/sitilge/dotfiles
