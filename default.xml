@@ -18,7 +18,9 @@
    <project path="blejdfist/dotfiles" name="blejdfist/dotfiles" groups="blejdfist,dotfiles" />
    <project path="daviwil/dotfiles" name="daviwil/dotfiles" groups="daviwil,dotfiles" />
    <project path="daviwil/emacs" name="daviwil/emacs-from-scratch" groups="daviwil,emacs" />
-   <project path="dwt1/dotfiles" name="dwt1/dotfiles" groups="dwt1,dotfiles" remote="gitlab" />
+   <project path="dwt1/dotfiles" name="dwt1/dotfiles" groups="dwt1,dotfiles,dwm,dmenu" remote="gitlab" />
+   <project path="dwt1/dwm" name="dwt1/dwm-distrotube" groups="dwt1,dotfiles,dwm,dmenu" remote="gitlab" />
+   <project path="dwt1/bin" name="dwt1/dmscripts" groups="dwt1,dotfiles,dwm,dmenu" remote="gitlab" />
    <project path="HaoZeke/doom" name="HaoZeke/dotdoom" groups="HaoZeke,doom" />
    <project path="HaoZeke/dotfiles" name="HaoZeke/Dotfiles" groups="HaoZeke,dotfiles" />
    <project path="Brettm12345/emacs" name="Brettm12345/doom-emacs-literate-config" groups="Brettm12345,emacs" />
@@ -79,8 +81,9 @@
    <project path="LukeSmithxyz/dotfiles" name="LukeSmithxyz/voidrice" groups="LukeSmith,vim,dotfiles,dwm" />
    <project path="kitnil/dotfiles" name="kitnil/dotfiles" groups="kitnil,ansible,dunst,guile,emacs,stumpwm,guix,tmux" />
    <project path="novoid/emacs" name="novoid/dot-emacs" groups="novoid,emacs,org" />
-   <project path="dcunited001/dotfiles" name="dcunited001/ellipsis" groups="dcunited001,emacs,i3,sway,dotfiles,doom" />
-   <project path="dcunited001/doom" name="dcunited001/dotfiles_doom" groups="dcunited001,emacs,doom" />
+   <project path="dcunited001/dotfiles" name="dcunited001/ellipsis" groups="dcunited001,emacs,i3,guix,dotfiles,doom" />
+	<!-- <project path="dcunited001/doom" name="dcunited001/dotfiles_doom" groups="dcunited001,emacs,guix" /> -->
+   <project path="dcunited001/emacs" name="dcunited001/.emacs.guix" groups="dcunited001,emacs,guix" />
    <project path="phundrak/dotfiles" name="phundrak/dotfiles" remote="phundrak" groups="phundrak,emacs,yadm,arch" />
    <project path="abougouffa/dotfiles" name="abougouffa/dotfiles" revision="refs/heads/main" groups="doom,vim,spacemacs,tmux" />
 
@@ -94,6 +97,9 @@
    <project path="plattfot/emacs-plt" name="emacs-plt" groups="guix,guix-home,emacs" remote="srht_plattfot" />
    <project path="michal_atlas/dotfiles" name="dotfiles" groups="guix,guix-home,emacs" remote="srht_michal_atlas" />
    <project path="krevedkokun/dotfiles" name="dotfiles" groups="guix,guix-home,emacs" remote="srht_krevedkokun" />
-   <project path="progfolio/.emacs.d" name="progfolio/emacs" groups="emacs" />
+   <project path="progfolio/emacs" name="progfolio/.emacs.d" groups="emacs" />
+   <project path="DiamondBond/emacs" name="DiamondBond/emacs" groups="emacs,gnus,consult" />
+   <project path="DiamondBond/bin" name="DiamondBond/bin" groups="bin,icewm,dwm,rice" />
+   <project path="DiamondBond/dotfiles" name="DiamondBond/dotfiles" groups="icewm,dwm,gnustep,rice" />
 
 </manifest>
