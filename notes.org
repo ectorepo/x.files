@@ -1,0 +1,335 @@
+#+TITLE:     X.Files: Notes
+#+AUTHOR:    David Conner
+#+EMAIL:     noreply@te.xel.io
+#+DESCRIPTION: Notes on dotfiles
+
+* Notes
+** To Generate (initially)
+
+With shell
+
++ Use =C-u M-!= to run =shell-command= with output
++ Then =tree -L 2 /data/ecto/x.files/= then =query-replace-regexp= in emacs.
+  - use =C-q C-j= to insert newlines in your regexp/replace
+
+** To Update
+
+... well this requires command over =org-ql= or =org-element=.
+
+
++ Keeping the existing notes still probably requires =org-element=.
++ it may be worthwhile to iterate over the headlines and generate a hash (or use
+  =org-id-get-create=) but sourcing some =xpath= query /should/ guarantee
+  uniqueness).
+
++ Using the =default.xml= file as input would be preferable to =tree=, though
+  the command has options for XML/JSON output and even HTML.
+
++ Has anyone else wondered why Google's =repo= is so underrated? ... or why tf
+  we need =jq= when json is degenerate?
+  - Sorry, my opinions are opinions: i can imagine you don't want XML parsing to
+    be ubiquitous on the commandline for security reasons, but JSON _cannot_
+    model concepts like XML can. It just can't. It also doesn't "protobuf" very
+    well. bson doesn't count. JSON is inferior and the only reason it's
+    ubiquitous is because javascript programmers brought it with them. Leave the
+    javascript things in the browser, please. The language was designed to fit a
+    niche and it does /that/ very well. Do you see emacs-lisp everywhere? So why
+    are 13 electron apps running on my desktop? GTFO.
+
+
+* Dotfiles
+
+**  abo-abo
+*** emacs
+
+
+**  aborn
+*** dotfiles
+*** space
+
+**  abougouffa
+*** dotfiles
+
+
+**  akagi
+*** dotfiles
+
+
+**  alezost
+*** dotfiles
+*** emacs
+*** shell
+
+
+**  ambrevar
+*** dotfiles
+
+
+**  bamos
+*** dotfiles
+
+
+**  bbatsov
+*** emacs
+
+
+**  benmezger
+*** dotfiles
+
+
+**  blejdfist
+*** dotfiles
+
+
+**  BonfaceKilz
+*** emacs
+
+
+**  Brettm12345
+*** emacs
+
+
+**  BVollmerhaus
+*** dotfiles
+
+
+**  cjbassi
+*** dotfiles
+
+
+**  daedreth
+*** emacs
+
+
+**  daviwil
+*** dotfiles
+*** emacs
+
+
+**  dcunited001
+*** dotfiles
+*** emacs
+
+
+**  dfeich
+*** emacs-course
+*** emacs-course-and-config
+*** org-babel-examples
+
+
+**  DiamondBond
+*** bin
+*** dotfiles
+*** emacs
+
+
+**  dpgraham4401
+*** dotfiles
+
+
+**  dwt1
+*** bin
+*** dotfiles
+*** dwm
+
+
+**  ergoemacs
+*** emacs
+
+
+**  frap
+*** emacs
+
+
+**  geolessel
+*** dotfiles
+
+
+**  gtrunsec
+*** dotfiles
+
+
+**  HaoZeke
+*** doom
+*** dotfiles
+
+
+**  hlissner
+*** doom
+*** dotfiles
+
+
+**  hsinhaoyu
+*** doom
+
+
+**  isti115
+*** dotfiles
+
+
+**  jethrokuan
+*** dotfiles
+*** org
+
+
+**  jkitchin
+*** emacs
+
+
+**  Jorengarenar
+*** dotfiles
+
+
+**  joseph8th
+*** emacs
+
+
+**  jsoo1
+*** dotfiles
+
+
+**  karthink
+*** emacs
+
+
+**  kitnil
+*** dotfiles
+
+
+**  krevedkokun
+*** dotfiles
+
+
+**  kubemacs
+*** emacs
+
+
+**  lccambiaghi
+*** doom
+*** emacs
+
+
+**  LukeSmithxyz
+*** dotfiles
+
+
+**  magnars
+*** emacs
+
+
+**  MatthewZMD
+*** emacs
+
+
+**  maximbaz
+*** dotfiles
+
+
+**  MenkeTechnologies
+*** zpwr
+
+
+**  michal_atlas
+*** dotfiles
+
+
+**  monkeyjunglejuice
+*** emacs
+
+
+**  mwfogleman
+*** emacs
+
+
+**  Nekoyuki
+*** cheatsheets
+*** dotfiles
+
+
+**  nicolas-graves
+*** dotfiles
+
+
+**  novoid
+*** emacs
+
+
+**  ocodo
+*** emacs
+
+
+**  phundrak
+*** dotfiles
+
+
+**  plattfot
+*** emacs
+*** emacs-plt
+
+
+**  progfolio
+*** emacs
+
+
+**  protesilaos
+*** dotfiles
+
+
+**  purcell
+*** emacs
+
+
+**  rasendubi
+*** emacs
+
+
+**  sachac
+*** emacs
+
+
+**  Scrumplex
+*** dotfiles
+
+
+**  sistematico
+*** dotfiles
+
+
+**  sunnyhasija
+*** doom
+
+
+**  tammymakesthings
+*** emacs
+
+
+**  tecosaur
+*** doom
+
+
+**  thiagowfx
+*** dotfiles
+
+
+**  TimQuelch
+*** doom
+
+
+**  tuhdo
+*** emacs
+
+
+**  ubolonton
+*** dotfiles
+*** emacs
+
+
+**  whitelynx
+*** dotfiles
+
+
+**  zamansky
+*** emacs
+
+** zzamboni
+*** doom
