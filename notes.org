@@ -40,7 +40,7 @@ With shell
   - Sorry, my opinions are opinions: i can imagine you don't want XML parsing to
     be ubiquitous on the commandline for security reasons, but JSON _cannot_
     model concepts like XML can. It just can't. It also doesn't "protobuf" very
-    well. bson doesn't count. JSON is inferior and the only reason it's
+    well. bson doesn't count. JSON is inferior and the only reason is
     ubiquitous is because javascript programmers brought it with them. Leave the
     javascript things in the browser, please. The language was designed to fit a
     niche and it does /that/ very well. Do you see emacs-lisp everywhere? So why
@@ -50,6 +50,10 @@ With shell
 * Dotfiles
 
 **  abo-abo
+Author of ace-jump, lispy and a dozen other packages that made using emacs less
+painful. Obviously creative. Good lisp/clojure configs. I haven't spent enough
+time on these.
+
 *** emacs
 
 
@@ -197,6 +201,18 @@ other configs new/interesting to me:
 
 
 **  hlissner
+
+Author of Doom Emacs. Friendly, very active in his own communities. Probably
+connects to Discord and Github using a Neuralink. Could probably use some more
+Github donors -- most open source projects deserve more.
+
+While I'm not maining Doom Emacs anymore, I'll probably still have a fairly
+basic config set up because it's a great way to get a feel for decent configs of
+packages/features, whether old or new. There are a ton of good examples of
+low-level emacs automation in the scripts and of robust emacs-lisp
+metaprogramming. This guy probably pierced the veil a few years ago. He's seen
+the monad.
+
 *** doom
 *** dotfiles
 
@@ -231,6 +247,16 @@ other configs new/interesting to me:
 
 
 **  karthink
+
+Great examples of various package configs, but uses evil lol.
+
+He wrote popper.el, an Emacs window management package that's maybe
+underrated. Still a ways to go, but it's easy to set up so "windows just work".
+
+Karthink's math research scares me a little. See his video on [[https://www.youtube.com/watch?v=hPwDbx--Waw][popper.el]] to see
+what i'm talking about. If you haven't had your mind blown by operator calculus
+yet, you probably won't appreciate it.
+
 *** emacs
 
 
@@ -314,6 +340,14 @@ other configs new/interesting to me:
 
 
 **  protesilaos
+
+Definitely a completionist when it comes to configurations. Thinks methodically
+about these things. The ef-themes and modus-themes packages are great. So are
+the other packages.
+
+Started using emacs as a non-technical user, which is interesting. He writes
+philosophy and philosophically motivated stuff and it's good.
+
 *** dotfiles
 
 
