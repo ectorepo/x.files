@@ -117,6 +117,9 @@ With shell
 
 
 **  dcunited001
+
+Occasionally creative, but copies a lot of shit. Not sure if crazy or just stupid.
+
 *** dotfiles
 *** emacs
 
