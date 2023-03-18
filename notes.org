@@ -12,6 +12,16 @@ With shell
 + Then =tree -L 2 /data/ecto/x.files/= then =query-replace-regexp= in emacs.
   - use =C-q C-j= to insert newlines in your regexp/replace
 
+** To link to org-roam
+
++ enable links in org-roam and make a soft/hard link. If it's a hardlink in two
+  git repos, you gonna have problems.
+
+** To make notes
+
++ Add the file to your org-refile paths and setup a capture template.
++Browse the source code and refile from there.
+
 ** To Update
 
 ... well this requires command over =org-ql= or =org-element=.
@@ -121,7 +131,36 @@ With shell
 *** bin
 *** dotfiles
 *** emacs
+:PROPERTIES:
+:UPDATED_AT: <2023-03-17 Fri>
+:END:
 
++ gtags :: [[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwittbGYpOT9AhU8ElkFHZRxASkQFnoECBwQAQ&url=https%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fglobal%2F&usg=AOvVaw175eUEq5Mut3XINEIy7-dL][Gnu Global]] tags ([[https://www.gnu.org/software/global/manual/global.html][manual]])
+  - didn't know about these
++ GNUS :: a pretty complete GNUS config
++ embark preview at point mode :: hmmm do i need this?
++ compile mode :: i still need to configure langs/builds
++ wild alert notifier :: hook your org-agenda-files into your system's alerts system
+  - this will be helpful, though it would be tough to manage
+  - this package is a great example of why you should manually manage your
+    =org-agenda-files=
+other configs new/interesting to me:
+
++ Emacs has an SICP package and the book is available via Info
++ web-mode
++ java-mode
++ ERC
++ dashboard: a non-doom dashboard. Doesn't really fit my workflow
++ run-in-vterm
++ indent-guides: i feel like these could be slow, like the VC fringe feature. I
+  would use them or at least alphapapa's prism-mode for lisps, but i'm fine on
+  this for now. I forgot about them though.
++ [ ] xah-math-input
++ [ ] init-completion-predicate
++ [ ] nov: read epubs on emacs
++ [ ] pdf-tools: i need to get these back again
++ academic-phrases: I didn't know about this book. this is a good resource.
++ [ ] corfu-separator :: do I need this?
 
 **  dpgraham4401
 *** dotfiles
