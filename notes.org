@@ -50,9 +50,9 @@ With shell
 * Dotfiles
 
 **  abo-abo
-Author of ace-jump, lispy and a dozen other packages that made using emacs less
-painful. Obviously creative. Good lisp/clojure configs. I haven't spent enough
-time on these.
+Author of avy, hydra, swiper, ivy, lispy and a dozen other packages that made
+using emacs less painful. Obviously creative. Good lisp/clojure configs. I
+haven't spent enough time on these.
 
 *** emacs
 
@@ -250,12 +250,13 @@ the monad.
 
 Great examples of various package configs, but uses evil lol.
 
-He wrote popper.el, an Emacs window management package that's maybe
-underrated. Still a ways to go, but it's easy to set up so "windows just work".
+Great video overview on [[https://youtube.com/watch?v=hPwDbx--Waw&si=EnSIkaIECMiOmarE][vertico completion.]]
 
-Karthink's math research scares me a little. See his video on [[https://www.youtube.com/watch?v=hPwDbx--Waw][popper.el]] to see
-what i'm talking about. If you haven't had your mind blown by operator calculus
-yet, you probably won't appreciate it.
+Wrote popper.el, an Emacs window management package that's maybe
+underrated. Still a ways to go, but it's easy to set up so "windows just
+work". Karthink's math research scares me a little. See his video on [[https://www.youtube.com/watch?v=hPwDbx--Waw][popper.el]]
+to see what i'm talking about. If you haven't had your mind blown by operator
+calculus yet, you probably won't appreciate it.
 
 *** emacs
 
