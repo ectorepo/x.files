@@ -98,5 +98,5 @@
   <project path="xenodium/dotfiles" name="xenodium/dotsies" groups="emacs,mac" revision="refs/heads/main"/>
   <project path="akirak/emacs" name="akirak/emacs.d" groups="emacs,nix,literate"/>
   <project path="akirak/emacs2" name="akirak/emacs-config" groups="emacs,nix,literate"/>
-  <project path="alexluigit/emacs" name=" alexluigit/emacs-grandview" groups="emacs,mac"/>
+  <project path="alexluigit/emacs" name="alexluigit/emacs-grandview" groups="emacs,mac"/>
 </manifest>
