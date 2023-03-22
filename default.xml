@@ -93,7 +93,7 @@
   <project path="DiamondBond/dotfiles" name="DiamondBond/dotfiles" groups="icewm,dwm,gnustep,rice"/>
   <project path="Nekoyuki/cheatsheets" name="Nekoyuki/cheat_sheets" groups="arch,cheatsheets,math,msys2,win,blog"/>
   <project path="Nekoyuki/dotfiles" name="Nekoyuki/dotfiles" groups="arch,cheatsheets,math,msys2,win"/>
-  <project path="SqrtMinuxOne/dotfiles" name="SqrtMinuxOne/dotfiles" groups="guix,emacs,literate,stats,bash,fish,tmux,polybar,rofi,dmenu"/>
+  <project path="SqrtMinusOne/dotfiles" name="SqrtMinusOne/dotfiles" groups="guix,emacs,literate,stats,bash,fish,tmux,polybar,rofi,dmenu"/>
   <project path="bling/emacs" name="bling/dotemacs" groups="emacs"/>
   <project path="xenodium/dotfiles" name="xenodium/dotsies" groups="emacs,mac" revision="refs/heads/main"/>
   <project path="akirak/emacs" name="akirak/emacs.d" groups="emacs,nix,literate"/>
