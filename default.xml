@@ -82,6 +82,7 @@
   <project path="alezost/emacs" name="alezost/emacs-config" groups="emacs,guix"/>
   <project path="alezost/shell" name="alezost/shell-config" groups="bash"/>
   <project path="akagi/dotfiles" name="guixrc" groups="guix,guix-home,emacs" remote="srht_akagi"/>
+  <project path="oriansj/dotfiles" name="System_setup" groups="guix,guix-home,emacs" remote="srht_oriansj"/>
   <project path="nicolas-graves/dotfiles" name="nicolas-graves/dotfiles" groups="guix,guix-home,emacs" revision="refs/heads/main"/>
   <project path="plattfot/emacs" name="dotemacs" groups="guix,guix-home,emacs" remote="srht_plattfot"/>
   <project path="plattfot/emacs-plt" name="emacs-plt" groups="guix,guix-home,emacs" remote="srht_plattfot"/>
@@ -99,5 +100,5 @@
   <!-- <project path="akirak/emacs" name="akirak/emacs.d" groups="emacs,nix,literate" revision="refs/heads/maint"/> -->
   <project path="akirak/emacs2" name="akirak/emacs-config" groups="emacs,nix,literate"/>
   <project path="alexluigit/emacs" name="alexluigit/emacs-grandview" groups="emacs,mac"/>
-  <project path="ifreund/dotfiles" name="ifreund/dotfiles" groups="river,zig"/>
+  <project path="ifreund/dotfiles" name="ifreund/dotfiles" groups="river,zig" revision="refs/heads/trunk"/>
 </manifest>
