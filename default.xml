@@ -82,7 +82,7 @@
   <project path="alezost/emacs" name="alezost/emacs-config" groups="emacs,guix"/>
   <project path="alezost/shell" name="alezost/shell-config" groups="bash"/>
   <project path="akagi/dotfiles" name="guixrc" groups="guix,guix-home,emacs" remote="srht_akagi"/>
-  <project path="oriansj/dotfiles" name="System_setup" groups="guix,guix-home,emacs" remote="srht_oriansj"/>
+  <project path="oriansj/dotfiles" name="System_setup" groups="guix,guix-home,emacs" remote="srht_oriansj" revision="refs/heads/main"/>
   <project path="nicolas-graves/dotfiles" name="nicolas-graves/dotfiles" groups="guix,guix-home,emacs" revision="refs/heads/main"/>
   <project path="plattfot/emacs" name="dotemacs" groups="guix,guix-home,emacs" remote="srht_plattfot"/>
   <project path="plattfot/emacs-plt" name="emacs-plt" groups="guix,guix-home,emacs" remote="srht_plattfot"/>
