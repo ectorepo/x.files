@@ -20,7 +20,7 @@
   <project path="HaoZeke/dotfiles" name="HaoZeke/Dotfiles" groups="HaoZeke,dotfiles"/>
   <project path="Brettm12345/emacs" name="Brettm12345/doom-emacs-literate-config" groups="Brettm12345,emacs"/>
   <project path="mwfogleman/emacs" name="mwfogleman/.emacs.d" groups="mwfogleman,emacs,buddhism"/>
-  <project path="tammymakesthings/emacs" name="tammymakesthings/emacs_d" revision="refs/heads/main" groups="tammymakesthings,emacs"/>
+  <project path="tammymakesthings/emacs" name="tammymakesthings/emacs_d_old" revision="refs/heads/main" groups="tammymakesthings,emacs"/>
   <project path="lccambiaghi/doom" name="lccambiaghi/.doom.d" groups="lccambiaghi,doom"/>
   <project path="lccambiaghi/emacs" name="lccambiaghi/vanilla-emacs" revision="refs/heads/main" groups="lccambiaghi,emacs"/>
   <project path="ubolonton/dotfiles" name="ubolonton/dotfiles" groups="ubolonton,dotfiles"/>
