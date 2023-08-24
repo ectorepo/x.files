@@ -37,15 +37,6 @@ With shell
 
 + Has anyone else wondered why Google's =repo= is so underrated? ... or why tf
   we need =jq= when json is degenerate?
-  - Sorry, my opinions are opinions: i can imagine you don't want XML parsing to
-    be ubiquitous on the commandline for security reasons, but JSON _cannot_
-    model concepts like XML can. It just can't. It also doesn't "protobuf" very
-    well. bson doesn't count. JSON is inferior and the only reason is
-    ubiquitous is because javascript programmers brought it with them. Leave the
-    javascript things in the browser, please. The language was designed to fit a
-    niche and it does /that/ very well. Do you see emacs-lisp everywhere? So why
-    are 13 electron apps running on my desktop? GTFO.
-
 
 * Dotfiles
 
