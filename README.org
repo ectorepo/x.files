@@ -1,0 +1,543 @@
+#+TITLE:     X.Files: Notes
+#+AUTHOR:    David Conner
+#+EMAIL:     noreply@te.xel.io
+#+DESCRIPTION: Notes on dotfiles
+
+* Notes
+
+* Dotfiles
+
+** By Feature
+
+Users with emacs/latex configs:
+
+| user       | latex engine | notes |
+|------------+--------------+-------|
+| dfeich     |              |       |
+| rasendubi  |              |       |
+| jethrokuan |              |       |
+| phundrak   |              |       |
+| tecosaur   |              |       |
+| hsinhaoyu  |              |       |
+| abougouffa |              |       |
+| aboabo     |              |       |
+| ubolonton  |              |       |
+| novoid     |              |       |
+| ambrevar   |              |       |
+
+* Latex
+
+
+** By User
+
+***  abo-abo
+Author of avy, hydra, swiper, ivy, lispy and a dozen other packages that made
+using emacs less painful. Obviously creative. Good lisp/clojure configs. I
+haven't spent enough time on these.
+
+**** emacs
+
+
+***  aborn
+**** dotfiles
+**** space
+
+***  abougouffa
+**** dotfiles
+
+**** doom
+
+***** Completion
+
+eglot and LSP
+
++ cpp :: clangd
++ cmake :: 'project-cmake-scan-kits 'project-cmake-eglot-integration
++ vhdl :: vhdl-ls
++ grammarly :: 'grammarly-ls
++ misc writing :: ltex & langtool
+
+
+***  akagi
+**** dotfiles
+
+
+*** akirak
+
+**** emacs
+
+***** Completion
+
+eglot
+
++ lean4 :: lake
++ svelte :: svelte-server
++ terraform :: terraform-lsp
++ coq :: coq-lsp
++ elixer :: elixir-ls
++ elixer-ts :: elixir-ls
++ heek :: elixir-ts
++ web :: astro-ls
+
+also
+
++ enables copilot-mode in 'eglot-managed-mode-hook
++ ghelp+eglot?
+
+***  alezost
+**** dotfiles
+**** emacs
+**** shell
+
+
+***  ambrevar
+**** dotfiles
+
+
+***  bamos
+**** dotfiles
+
+
+***  bbatsov
+**** emacs
+
+
+***  benmezger
+**** dotfiles
+
+
+***  blejdfist
+**** dotfiles
+
+
+*** bling
+
+**** emacs
+
+***** Completon
+
+eglot and lsp
+
++ js/ts
++ jsx
+
+***  BonfaceKilz
+**** emacs
+
+
+***  Brettm12345
+**** emacs
+
+
+***  BVollmerhaus
+**** dotfiles
+
+
+***  cjbassi
+**** dotfiles
+
+
+***  daedreth
+**** emacs
+
+
+***  daviwil
+**** dotfiles
+**** emacs
+
+
+***  dcunited001
+
+Occasionally creative, but copies a lot of shit. Not sure if crazy or just stupid.
+
+**** dotfiles
+**** emacs
+
+
+***  dfeich
+**** emacs-course
+**** emacs-course-and-config
+**** org-babel-examples
+
+
+***  DiamondBond
+**** bin
+**** dotfiles
+**** emacs
+:PROPERTIES:
+:UPDATED_AT: <2023-03-17 Fri>
+:END:
+
++ gtags :: [[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwittbGYpOT9AhU8ElkFHZRxASkQFnoECBwQAQ&url=https%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fglobal%2F&usg=AOvVaw175eUEq5Mut3XINEIy7-dL][Gnu Global]] tags ([[https://www.gnu.org/software/global/manual/global.html][manual]])
+  - didn't know about these
++ GNUS :: a pretty complete GNUS config
++ embark preview at point mode :: hmmm do i need this?
++ compile mode :: i still need to configure langs/builds
++ wild alert notifier :: hook your org-agenda-files into your system's alerts system
+  - this will be helpful, though it would be tough to manage
+  - this package is a great example of why you should manually manage your
+    =org-agenda-files=
+other configs new/interesting to me:
+
++ Emacs has an SICP package and the book is available via Info
++ web-mode
++ java-mode
++ ERC
++ dashboard: a non-doom dashboard. Doesn't really fit my workflow
++ run-in-vterm
++ indent-guides: i feel like these could be slow, like the VC fringe feature. I
+  would use them or at least alphapapa's prism-mode for lisps, but i'm fine on
+  this for now. I forgot about them though.
++ [ ] xah-math-input
++ [ ] init-completion-predicate
++ [ ] nov: read epubs on emacs
++ [ ] pdf-tools: i need to get these back again
++ academic-phrases: I didn't know about this book. this is a good resource.
++ [ ] corfu-separator :: do I need this?
+
+***  dpgraham4401
+**** dotfiles
+
+
+***  dwt1
+**** bin
+**** dotfiles
+**** dwm
+
+
+***  ergoemacs
+**** emacs
+
+
+***  frap
+**** emacs
+
+
+***  geolessel
+**** dotfiles
+
+
+***  gtrunsec
+**** dotfiles
+
+
+***  HaoZeke
+
+**** doom
+
+***** Completon
+
+eglot
+
++ python :: pylsp
+
+
+**** dotfiles
+
+
+***  hlissner
+
+Author of Doom Emacs. Friendly, very active in his own communities. Probably
+connects to Discord and Github using a Neuralink. Could probably use some more
+Github donors -- most open source projects deserve more.
+
+While I'm not maining Doom Emacs anymore, I'll probably still have a fairly
+basic config set up because it's a great way to get a feel for decent configs of
+packages/features, whether old or new. There are a ton of good examples of
+low-level emacs automation in the scripts and of robust emacs-lisp
+metaprogramming. This guy probably pierced the veil a few years ago. He's seen
+the monad.
+
+**** doom
+**** dotfiles
+
+
+***  hsinhaoyu
+**** doom
+
+***** Completon
+
+eglot (formerly LSP)
+
+***  isti115
+**** dotfiles
+
+
+***  jethrokuan
+**** dotfiles
+**** org
+
+
+***  jkitchin
+**** emacs
+
+
+***  Jorengarenar
+**** dotfiles
+
+
+***  joseph8th
+**** emacs
+
+
+***  jsoo1
+**** dotfiles
+
+**** emacs
+
+***** Completion
+
++ nix :: rnix-lsp (and also "nil" via setf in =nix/init.el=)
++ haskell :: ...
++ rust :: rust-analyzer (with eldoc+company)
++ terraform :: terraform-lsp
++ go :: gopls
+
+***  karthink
+
+Great examples of various package configs, but uses evil lol.
+
+Great video overview on [[https://youtube.com/watch?v=hPwDbx--Waw&si=EnSIkaIECMiOmarE][vertico completion.]]
+
+Wrote popper.el, an Emacs window management package that's maybe
+underrated. Still a ways to go, but it's easy to set up so "windows just
+work". Karthink's math research scares me a little. See his video on [[https://www.youtube.com/watch?v=hPwDbx--Waw][popper.el]]
+to see what i'm talking about. If you haven't had your mind blown by operator
+calculus yet, you probably won't appreciate it.
+
+**** emacs
+***** Completion
+
+eglot
+
++ jl :: julia's std lsp
++ lua :: EmmyLua-LanguageServer
++ matlab :: matlab-langserver.sh
+
+***  kitnil
+**** dotfiles
+
+
+***  krevedkokun
+**** dotfiles
+
+**** emacs
+
+eglot
+
++ clojure ::
++ nix ::
++ f90 ::
++ cc :: clangd
++ python :: pylsp
++ bash :: bash-language-server
+
+
+***  kubemacs
+**** emacs
+
+
+***  lccambiaghi
+**** doom
+
+**** emacs
+
+**** doom (old config)
+
+eglot
+
++ python :: pyright-langserver
+
+
+***  LukeSmithxyz
+**** dotfiles
+
+
+***  magnars
+**** emacs
+
+
+***  MatthewZMD
+**** emacs
+
+
+***  maximbaz
+**** dotfiles
+
+
+***  MenkeTechnologies
+**** zpwr
+
+
+***  michal_atlas
+**** dotfiles
+
+
+***  monkeyjunglejuice
+**** emacs
+
+
+***  mwfogleman
+**** emacs
+
+
+***  Nekoyuki
+**** cheatsheets
+**** dotfiles
+
+
+***  nicolas-graves
+**** dotfiles
+
+
+***  novoid
+**** emacs
+
+
+***  ocodo
+**** emacs
+
+LSP
+
++ css :: vscode-css-languageserver
+
+***  phundrak
+
+**** dotfiles
+
+**** emacs
+
+***** Completion
+
++ js/ts :: javascript-typescript-langserver
+
+***  plattfot
+**** emacs
+***** Completon
+
+eglot+ lang :: cpp (clangd)
+
+**** emacs-plt
+
+
+***  progfolio
+**** emacs
+
+
+***  protesilaos
+
+Definitely a completionist when it comes to configurations. Thinks methodically
+about these things. The ef-themes and modus-themes packages are great. So are
+the other packages.
+
+Started using emacs as a non-technical user, which is interesting. He writes
+philosophy and philosophically motivated stuff and it's good.
+
+**** dotfiles
+
+
+***  purcell
+**** emacs
+***** Completion
+
+eglot
+
++ nix :: "nil" the string
+
+***  rasendubi
+**** emacs
+
+
+***  sachac
+**** emacs
+
+
+***  Scrumplex
+**** dotfiles
+
+
+***  sistematico
+**** dotfiles
+
+
+*** SqrtMinusOne
+
+**** dotfiles
+
+**** guix
+
+**** emacs
+***** Completion
+
+LSP, default servers
+
++ typescript-mode
++ js-mode
++ vue-mode
++ go-mode
++ svelte-mode
++ python-mode
++ json-mode
++ haskell-mode
++ haskell-literate-mode
++ java-mode
++ csharp-mode
+
+  DAP configured
+
+***  sunnyhasija
+**** doom
+
+
+***  tammymakesthings
+**** emacs
+
+
+***  tecosaur
+**** doom
+
+
+***  thiagowfx
+**** dotfiles
+
+
+***  TimQuelch
+**** doom
+
+
+***  tuhdo
+**** emacs
+
+
+***  ubolonton
+**** dotfiles
+**** emacs
+
+
+***  whitelynx
+**** dotfiles
+
+
+*** xenodium
+
+**** emacs
+
+***** Completion
+
+eglot
+
++ swift :: sourcekit-lsp
+
+***  zamansky
+**** emacs
+
+***** Completion
+
++ python
++ clojure
++ java
++ c/c++ :: ccls
++ rustic
+
+*** zzamboni
+**** doom
