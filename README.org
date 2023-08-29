@@ -57,6 +57,9 @@ eglot and LSP
 + grammarly :: 'grammarly-ls
 + misc writing :: ltex & langtool
 
+***** C/C++
+
++ DAP/gdb/RealGUD (+ gud hydra)
 
 ***  akagi
 **** dotfiles
@@ -323,6 +326,8 @@ eglot
 
 **** emacs
 
+***** Completion
+
 eglot
 
 + clojure ::
@@ -343,6 +348,8 @@ eglot
 **** emacs
 
 **** doom (old config)
+
+***** Completion
 
 eglot
 
@@ -396,6 +403,8 @@ eglot
 
 ***  ocodo
 **** emacs
+
+***** Completion
 
 LSP
 
