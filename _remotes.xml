@@ -24,4 +24,5 @@
   <remote name="srht_sircmpwn" fetch="https://git.sr.ht/~sircmpwn"/>
   <remote name="srht_whereiseveryone" fetch="https://git.sr.ht/~whereiseveryone"/>
   <remote name="trees_st" fetch="https://git.trees.st"/>
+  <remote name="wasamasa" fetch="https://depp.brause.cc"/>
 </manifest>

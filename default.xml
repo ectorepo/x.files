@@ -101,4 +101,6 @@
   <project path="akirak/emacs2" name="akirak/emacs-config" groups="emacs,nix,literate"/>
   <project path="alexluigit/emacs" name="alexluigit/emacs-grandview" groups="emacs,mac"/>
   <project path="ifreund/dotfiles" name="ifreund/dotfiles" groups="river,zig" revision="refs/heads/trunk"/>
+  <project path="wasamasa/emacs" name="wasamasa/dotemacs" groups="emacs,scheme,clojure,lisp" revision="refs/heads/master"/>
+  <project path="wasamasa/dotfiles" name="wasamasa/dotfiles" groups="arch,clojure,lisp" revision="refs/heads/master"/>
 </manifest>
