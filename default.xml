@@ -10,7 +10,6 @@
   <project path="tuhdo/emacs" name="tuhdo/emacs-c-ide-demo" groups="tuhdo,emacs"/>
   <project path="karthink/emacs" name="karthink/.emacs.d" groups="karthink,emacs"/>
   <project path="hsinhaoyu/doom" name="hsinhaoyu/.emacs.d" groups="hsinhaoyu,doom"/>
-  <project path="blejdfist/dotfiles" name="blejdfist/dotfiles" groups="blejdfist,dotfiles"/>
   <project path="daviwil/dotfiles" name="daviwil/dotfiles" groups="daviwil,dotfiles"/>
   <project path="daviwil/emacs" name="daviwil/emacs-from-scratch" groups="daviwil,emacs"/>
   <project path="dwt1/dotfiles" name="dwt1/dotfiles" groups="dwt1,dotfiles,dwm,dmenu" remote="gitlab"/>
