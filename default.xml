@@ -102,5 +102,6 @@
   <project path="ifreund/dotfiles" name="ifreund/dotfiles" groups="river,zig" revision="refs/heads/trunk"/>
   <project path="wasamasa/emacs" name="wasamasa/dotemacs" groups="emacs,scheme,clojure,lisp" revision="refs/heads/master"/>
   <project path="wasamasa/dotfiles" name="wasamasa/dotfiles" groups="arch,clojure,lisp" revision="refs/heads/master"/>
+  <!-- the PEL author uses miniscule to visually "abbreviate" complex ideas ... in latex. GMTA -->
   <project path="pierre-rouleau/emacs" name="pierre-rouleau/pel" groups="emacs,lisp" revision="refs/heads/master"/>
 </manifest>
