@@ -104,4 +104,5 @@
   <project path="wasamasa/dotfiles" name="wasamasa/dotfiles" groups="arch,clojure,lisp" revision="refs/heads/master"/>
   <!-- the PEL author uses miniscule to visually "abbreviate" complex ideas ... in latex. GMTA -->
   <project path="pierre-rouleau/emacs" name="pierre-rouleau/pel" groups="emacs,lisp" revision="refs/heads/master"/>
+  <project path="jgkamat/dotfiles" name="jgkamat/dotfiles" groups="emacs,bash,git" revision="refs/heads/master" remote="gitlab"/>
 </manifest>
