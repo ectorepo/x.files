@@ -105,4 +105,10 @@
   <!-- the PEL author uses miniscule to visually "abbreviate" complex ideas ... in latex. GMTA -->
   <project path="pierre-rouleau/emacs" name="pierre-rouleau/pel" groups="emacs,lisp" revision="refs/heads/master"/>
   <project path="jgkamat/dotfiles" name="jgkamat/dotfiles" groups="emacs,bash,git" revision="refs/heads/master" remote="gitlab"/>
+  <project path="mk-fg/fgtk" name="mk-fg/fgtk" groups="emacs,bash,systemd,arch,security,crypto" revision="refs/heads/master" remote="codeberg"/>
+  <project path="mk-fg/dotfiles" name="mk-fg/de-setup" groups="bash,systemd,arch" revision="refs/heads/master" remote="codeberg"/>
+  <project path="mk-fg/waterfox" name="mk-fg/waterfox" groups="firefox,browser" revision="refs/heads/master" remote="codeberg"/>
+  <project path="mk-fg/apparmor" name="mk-fg/apparmor-profiles" groups="apparmor,security" revision="refs/heads/master" remote="codeberg"/>
+  <project path="mk-fg/pkgbuild" name="mk-fg/archlinux-pkgbuilds" groups="arch,pkg" revision="refs/heads/master" remote="codeberg"/>
+  <project path="mk-fg/emacs" name="mk-fg/emacs-setup" groups="emacs" revision="refs/heads/master" remote="codeberg"/>
 </manifest>
