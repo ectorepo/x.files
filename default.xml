@@ -40,7 +40,7 @@
   <project path="zamansky/emacs" name="zamansky/dot-emacs" revision="refs/heads/main" groups="zamansky,emacs"/>
   <project path="hlissner/doom" name="hlissner/doom-emacs-private" groups="hlissner,doom"/>
   <project path="daedreth/emacs" name="daedreth/UncleDavesEmacs" groups="daedreth,emacs"/>
-  <project path="joseph8th/emacs" name="joseph8th/literatemacs" groups="joseph8th,emacs"/>
+  <project path="joseph8th/emacs" name="joseph8th/literatemacs" groups="joseph8th,emacs" remote="gitlab"/>
   <project path="rasendubi/emacs" name="rasendubi/dotfiles" groups="rasendubi,emacs"/>
   <project path="TimQuelch/doom" name="TimQuelch/emacs.d" groups="TimQuelch,doom"/>
   <project path="frap/emacs" name="frap/emacs-literate" groups="frap,emacs"/>
@@ -99,7 +99,7 @@
   <!-- <project path="akirak/emacs" name="akirak/emacs.d" groups="emacs,nix,literate" revision="refs/heads/maint"/> -->
   <project path="akirak/emacs2" name="akirak/emacs-config" groups="emacs,nix,literate"/>
   <project path="alexluigit/emacs" name="alexluigit/emacs-grandview" groups="emacs,mac"/>
-  <project path="ifreund/dotfiles" name="ifreund/dotfiles" groups="river,zig" revision="refs/heads/trunk"/>
+  <project path="ifreund/dotfiles" name="ifreund/dotfiles" groups="river,zig" revision="refs/heads/chimera"/>
   <project path="wasamasa/emacs" name="wasamasa/dotemacs" groups="emacs,scheme,clojure,lisp" revision="refs/heads/master"/>
   <project path="wasamasa/dotfiles" name="wasamasa/dotfiles" groups="arch,clojure,lisp" revision="refs/heads/master"/>
   <!-- the PEL author uses miniscule to visually "abbreviate" complex ideas ... in latex. GMTA -->
