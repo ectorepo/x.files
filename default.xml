@@ -111,4 +111,6 @@
   <project path="mk-fg/apparmor" name="mk-fg/apparmor-profiles" groups="apparmor,security" revision="refs/heads/master" remote="codeberg"/>
   <project path="mk-fg/pkgbuild" name="mk-fg/archlinux-pkgbuilds" groups="arch,pkg" revision="refs/heads/master" remote="codeberg"/>
   <project path="mk-fg/emacs" name="mk-fg/emacs-setup" groups="emacs" revision="refs/heads/master" remote="codeberg"/>
+  <project path="youngker/emacs" name="youngker/emacs.d" groups="emacs,xmonad,nix,clojure" revision="refs/heads/master" remote="github"/>
+  <project path="youngker/nix" name="youngker/nix-config" groups="xmonad,nix,guix,clojure" revision="refs/heads/master" remote="github"/>
 </manifest>
