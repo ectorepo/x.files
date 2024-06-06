@@ -3,6 +3,8 @@
 #+EMAIL:     noreply@te.xel.io
 #+DESCRIPTION: Notes on dotfiles
 
+**** TODO add to xml https://github.com/caisah/emacs.dz
+
 * Notes
 
 * Dotfiles
@@ -92,6 +94,19 @@ also
 **** emacs
 **** shell
 
+
+*** alhassy
+**** emacs
+
++ actually uses =emmet=
+
+***** prodigy
+
+[[https://alhassy.com/emacs.d/#Managing-Processes-Servers-from-within-Emacs-Work-specific-functions][Managing Processes Servers from within Emacs Work specific functions]]
+
+This guy didn't want to use prodigy but when ahead and redid it anyways LOL
+
++prodigy is great, but this is also impressive.
 
 ***  ambrevar
 **** dotfiles
