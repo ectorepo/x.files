@@ -46,7 +46,7 @@
   <project path="frap/emacs" name="frap/emacs-literate" groups="frap,emacs"/>
   <project path="kubemacs/emacs" name="kubemacs/kubemacs" groups="kubemacs,emacs"/>
   <project path="tecosaur/doom" name="tecosaur/emacs-config" groups="tecosaur,doom"/>
-  <project path="dfeich/org-babel-examples" name="dfeich/org-babel-examples" groups="dfeich,emacs"/>
+  <project path="dfeich/org-babel-examples" name="dfeich/org-babel-examples" groups="dfeich,emacs,babel"/>
   <project path="dfeich/emacs-course" name="dfeich/emacs-course" groups="dfeich,emacs"/>
   <project path="dfeich/emacs-course-and-config" name="dfeich/emacs-course-and-config" groups="dfeich,emacs"/>
   <project path="jethrokuan/dotfiles" name="jethrokuan/dots" groups="jethrokuan,dotfiles,doom"/>
@@ -114,4 +114,15 @@
   <project path="alhassy/emacs" name="alhassy/emacs.d" groups="emacs,macos,javascript,math" revision="refs/heads/master" remote="github"/>
   <project path="youngker/emacs" name="youngker/emacs.d" groups="emacs,xmonad,nix,clojure" revision="refs/heads/master" remote="github"/>
   <project path="youngker/nix" name="youngker/nix-config" groups="xmonad,nix,guix,clojure" revision="refs/heads/main" remote="github"/>
+  <project path="fniessan/emacs" name="fniessan/emacs-leuven" groups="emacs,babel,dotfiles" remote="github"/>
+  <project path="fniessan/command-line-utilities-leuven" name="fniessan/command-line-utilities-leuven" groups="emacs,babel,dotfiles,bash" remote="github"/>
+  <project path="fniessan/git-config-enhancements-leuven" name="fniessan/git-config-enhancements-leuven" groups="dotfiles,git,bash" remote="github"/>
+  <project path="fniessan/refcard-ERT" name="fniessan/refcard-ERT" groups="emacs,org,babel,bash" remote="github"/>
+  <project path="fniessan/refcard-org-mode" name="fniessan/refcard-org-mode" groups="emacs,org,babel,bash" remote="github"/>
+  <project path="fniessen/refcard-org-beamer" name="fniessan/refcard-org-beamer" groups="emacs,babel,dotfiles,pdf,latex" remote="github"/>
+  <project path="fniessan/org-macros" name="fniessan/org-macros" groups="emacs,babel,dotfiles,bash" remote="github"/>
+  <project path="fniessan/gnus-leuven" name="fniessan/gnus-leuven" groups="emacs,babel,email,gnus" remote="github"/>
+  <project path="fniessan/svn-leuven" name="fniessan/svn-leuven" groups="bash,dotfiles,vcs,svn" remote="github"/>
+  <project path="fniessan/orgmk" name="fniessan/orgmk" groups="emacs,org,babel,pdf" remote="github"/>
+  <project path="SystemCrafters/site" name="SystemCrafters/systemcrafters-site" remote="codeberg" groups="emacs,guix,dotfiles,i3,stump,sway"/>
 </manifest>
