@@ -125,10 +125,10 @@
   <project path="fniessen/svn-leuven" name="fniessen/svn-leuven" groups="bash,dotfiles,vcs,svn" remote="github"/>
   <project path="fniessen/orgmk" name="fniessen/orgmk" groups="emacs,org,babel,pdf" remote="github"/>
   <project path="SystemCrafters/site" name="SystemCrafters/systemcrafters-site" remote="codeberg" groups="emacs,guix,dotfiles,i3,stump,sway"/>
-  <project path="alexkehayias/emacs" name="alexkehayias/emacs" remote="github" groups="emacs,org,eglot"/>
+  <project path="alexkehayias/emacs" name="alexkehayias/emacs.d" remote="github" groups="emacs,org,eglot"/>
   <!-- straight.el author -->
-  <project path="radon502/emacs" name="radon502/emacs" remote="github" groups="emacs,lisp"/>
+  <project path="raxod502/emacs" name="raxod502/emacs" remote="github" groups="emacs,lisp"/>
   <!-- riju contains a ton of info for about 200 languages on config expected for basic runtime -->
-  <project path="radian-software/riju" name="radian=software/riju" remote="github" groups="emacs,lang,lisp"/>
+  <project path="radian-software/riju" name="radian-software/riju" remote="github" revision="main" groups="emacs,lang,lisp"/>
   <project path="trimstray/dotfiles" name="trimstray/the-book-of-secret-knowledge" remote="github" groups="dotfiles"/>
 </manifest>
