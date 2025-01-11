@@ -15,8 +15,8 @@
   <project path="dwt1/dotfiles" name="dwt1/dotfiles" groups="dwt1,dotfiles,dwm,dmenu" remote="gitlab"/>
   <project path="dwt1/dwm" name="dwt1/dwm-distrotube" groups="dwt1,dotfiles,dwm,dmenu" remote="gitlab"/>
   <project path="dwt1/bin" name="dwt1/dmscripts" groups="dwt1,dotfiles,dwm,dmenu" remote="gitlab"/>
-  <project path="HaoZeke/doom" name="HaoZeke/dotdoom" groups="HaoZeke,doom"/>
-  <project path="HaoZeke/dotfiles" name="HaoZeke/Dotfiles" groups="HaoZeke,dotfiles"/>
+  <project path="HaoZeke/doom" name="HaoZeke/dotdoom" revision="main" groups="HaoZeke,doom"/>
+  <project path="HaoZeke/dotfiles" name="HaoZeke/Dotfiles" revision="refs/heads/chezmoi" groups="HaoZeke,dotfiles"/>
   <project path="Brettm12345/emacs" name="Brettm12345/doom-emacs-literate-config" groups="Brettm12345,emacs"/>
   <project path="mwfogleman/emacs" name="mwfogleman/.emacs.d" groups="mwfogleman,emacs,buddhism"/>
   <project path="tammymakesthings/emacs" name="tammymakesthings/emacs_d_old" revision="refs/heads/main" groups="tammymakesthings,emacs"/>
@@ -56,7 +56,7 @@
   <project path="thiagowfx/dotfiles" name="thiagowfx/.dotfiles" groups="thiagowfx,dotfiles,arch,i3,vim,alacritty"/>
   <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar"/>
   <project path="sistematico/dotfiles" name="sistematico/majestic" groups="sistematico,dotfiles,arch,i3,vim,polybar"/>
-  <project path="maximbaz/dotfiles" name="maximbaz/dotfiles" groups="maximbaz,dotfiles,sway,kakoune,waybar"/>
+  <project path="maximbaz/dotfiles" name="maximbaz/dotfiles" revision="refs/heads/main" groups="maximbaz,dotfiles,sway,kakoune,waybar"/>
   <project path="Jorengarenar/dotfiles" name="Jorengarenar/dotfiles" groups="Jorengarenar,dotfiles,bash,i3,vim"/>
   <project path="benmezger/dotfiles" name="benmezger/dotfiles" revision="refs/heads/main" groups="benmezger,dotfiles,i3,emacs,tmux"/>
   <project path="BVollmerhaus/dotfiles" name="BVollmerhaus/dotfiles" remote="gitlab" groups="BVollmerhaus,dotfiles,kitty,fish,kakoune,polybar"/>
@@ -125,4 +125,10 @@
   <project path="fniessen/svn-leuven" name="fniessen/svn-leuven" groups="bash,dotfiles,vcs,svn" remote="github"/>
   <project path="fniessen/orgmk" name="fniessen/orgmk" groups="emacs,org,babel,pdf" remote="github"/>
   <project path="SystemCrafters/site" name="SystemCrafters/systemcrafters-site" remote="codeberg" groups="emacs,guix,dotfiles,i3,stump,sway"/>
+  <project path="alexkehayias/emacs" name="alexkehayias/emacs" remote="github" groups="emacs,org,eglot"/>
+  <!-- straight.el author -->
+  <project path="radon502/emacs" name="radon502/emacs" remote="github" groups="emacs,lisp"/>
+  <!-- riju contains a ton of info for about 200 languages on config expected for basic runtime -->
+  <project path="radian-software/riju" name="radian=software/riju" remote="github" groups="emacs,lang,lisp"/>
+  <project path="trimstray/dotfiles" name="trimstray/the-book-of-secret-knowledge" remote="github" groups="dotfiles"/>
 </manifest>
