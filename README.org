@@ -2,6 +2,7 @@
 #+AUTHOR:    David Conner
 #+EMAIL:     noreply@te.xel.io
 #+DESCRIPTION: Notes on dotfiles
+#+PROPERTY: header-args :comments none
 
 **** TODO add users to xml
 + https://github.com/caisah/emacs.dz

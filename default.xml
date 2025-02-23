@@ -131,4 +131,5 @@
   <!-- riju contains a ton of info for about 200 languages on config expected for basic runtime -->
   <project path="radian-software/riju" name="radian-software/riju" remote="github" revision="main" groups="emacs,lang,lisp"/>
   <project path="trimstray/dotfiles" name="trimstray/the-book-of-secret-knowledge" remote="github" groups="dotfiles"/>
+  <project path="whereiseveryone/dotfiles" name="confetti" remote="srht_whereiseveryone" groups="dotfiles,guix"/>
 </manifest>
