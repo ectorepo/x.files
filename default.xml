@@ -132,4 +132,5 @@
   <project path="radian-software/riju" name="radian-software/riju" remote="github" revision="main" groups="emacs,lang,lisp"/>
   <project path="trimstray/dotfiles" name="trimstray/the-book-of-secret-knowledge" remote="github" groups="dotfiles"/>
   <project path="whereiseveryone/dotfiles" name="confetti" remote="srht_whereiseveryone" groups="dotfiles,guix"/>
+  <project path="jjba23/dotfiles" name="jjba23/sss" groups="dotfiles,guix,sway,emacs" remote="codeberg" revision="refs/heads/trunk"/>
 </manifest>
