@@ -135,4 +135,5 @@
   <project path="jjba23/dotfiles" name="jjba23/sss" groups="dotfiles,guix,sway,emacs" remote="codeberg" revision="refs/heads/trunk"/>
   <project path="hiecaq/dotfiles" name="hiecaq/guix-config" groups="dotfiles,guix,sway,emacs,vim" remote="github" revision="refs/heads/main"/>
   <project path="engstrand-config/dotfiles" name="engstrand-config/guix-dotfiles" groups="dotfiles,guix,rde,dwl" remote="github" revision="refs/heads/main"/>
+  <project path="purplg/dotfiles" name="purplg/dotfiles" groups="dotfiles,nix,sway,emacs,vim" remote="codeberg" revision="refs/heads/master"/>
 </manifest>
