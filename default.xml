@@ -136,4 +136,7 @@
   <project path="hiecaq/dotfiles" name="hiecaq/guix-config" groups="dotfiles,guix,sway,emacs,vim" remote="github" revision="refs/heads/main"/>
   <project path="engstrand-config/dotfiles" name="engstrand-config/guix-dotfiles" groups="dotfiles,guix,rde,dwl" remote="github" revision="refs/heads/main"/>
   <project path="purplg/dotfiles" name="purplg/dotfiles" groups="dotfiles,nix,sway,emacs,vim" remote="codeberg" revision="refs/heads/master"/>
+  <project path="dylanaraps/pure-sh-bible" name="dylanaraps/pure-sh-bible" groups="bash" remote="github" revision="refs/heads/master"/>
+  <project path="dylanaraps/pure-bash-bible" name="dylanaraps/pure-bash-bible" groups="bash" remote="github" revision="refs/heads/master"/>
+  <project path="llimllib/dotfiles" name="llimllib/personal_code" groups="bash" remote="github" revision="refs/heads/master"/>
 </manifest>

@@ -11,6 +11,18 @@
 
 * Notes
 
+* Config
+
+** Rip/Grep
+
+Some files in some checkouts will break =rg= in =emacs=
+
+#+begin_src gitignore :tangle (expand-file-name "raxod502/.")
+
+#+end_src
+
+**** TODO remove build artifaces in ocodo; remote .gz files in raxod502
+
 * Dotfiles
 
 ** By Feature
