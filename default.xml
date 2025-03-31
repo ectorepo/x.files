@@ -139,4 +139,5 @@
   <project path="dylanaraps/pure-sh-bible" name="dylanaraps/pure-sh-bible" groups="bash" remote="github" revision="refs/heads/master"/>
   <project path="dylanaraps/pure-bash-bible" name="dylanaraps/pure-bash-bible" groups="bash" remote="github" revision="refs/heads/master"/>
   <project path="llimllib/dotfiles" name="llimllib/personal_code" groups="bash" remote="github" revision="refs/heads/master"/>
+  <project path="LierB/dotfiles" name="LierB/dotfiles" groups="vim,hyprland,wal" remote="github" revision="refs/heads/master"/>
 </manifest>
