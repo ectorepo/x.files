@@ -147,4 +147,7 @@
   <project path="jessfraz/dotfiles" name="jessfraz" groups="i3,bin,bash" revision="refs/heads/master"/>
   <project path="aylur/dotfiles" name="aylur/dotfiles" groups="nix,hyprland" revision="refs/heads/main"/>
   <project path="xero/dotfiles" name="xero/dotfiles" groups="bin,zsh,tmux,console" revision="refs/heads/main"/>
+  <project path="mylinuxforwork/dotfiles" name="mylinuxforwork/dotfiles" groups="arch,hyprland" revision="refs/heads/main"/>
+  <project path="zaney/zaneyos" name="Zaney/zaneyos" groups="nixos,hyprland" revision="refs/heads/main" remote="gitlab"/>
+  <project path="zaney/zaney-sync" name="ratfink417/zaney-sync" groups="nixos,hyprland" revision="refs/heads/main"/>
 </manifest>
