@@ -144,7 +144,7 @@
   <project path="end-4/dotfiles" name="end-4/dots-hyprland" groups="hyprland,themes,wal" remote="github" revision="refs/heads/main"/>
   <project path="prasanthrangan/dotfiles" name="prasanthrangan/hyprdots" groups="hyprland,themes,bin" remote="github" revision="refs/heads/main"/>
   <project path="hyde-project/dotfiles" name="hyde-project/hyde" groups="hyprland,themes,bin" remote="github" revision="refs/heads/master"/>
-  <project path="jessfraz/dotfiles" name="jessfraz/dotfiles" groups="i3,bin,bash" revision="refs/heads/master"/>
+  <project path="jessfraz/dotfiles" name="jessfraz/dotfiles" groups="i3,bin,bash" revision="refs/heads/main"/>
   <project path="aylur/dotfiles" name="aylur/dotfiles" groups="nix,hyprland" revision="refs/heads/main"/>
   <project path="xero/dotfiles" name="xero/dotfiles" groups="bin,zsh,tmux,console" revision="refs/heads/main"/>
   <project path="mylinuxforwork/dotfiles" name="mylinuxforwork/dotfiles" groups="arch,hyprland" revision="refs/heads/main"/>
