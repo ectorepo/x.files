@@ -150,4 +150,7 @@
   <project path="mylinuxforwork/dotfiles" name="mylinuxforwork/dotfiles" groups="arch,hyprland" revision="refs/heads/main"/>
   <project path="zaney/zaneyos" name="Zaney/zaneyos" groups="nixos,hyprland" revision="refs/heads/main" remote="gitlab"/>
   <project path="zaney/zaney-sync" name="ratfink417/zaney-sync" groups="nixos,hyprland" revision="refs/heads/main"/>
+  <project path="alyraffauf/nixcfg" name="alyraffauf/nixcfg" groups="nixos,hyprland" revision="refs/heads/master"/>
+  <project path="alyraffauf/secrets" name="alyraffauf/secrets" groups="nixos,hyprland" revision="refs/heads/master"/>
+  <project path="alyraffauf/bazzite" name="alyraffauf/bazzite" groups="nixos,hyprland" revision="refs/heads/master"/>
 </manifest>
