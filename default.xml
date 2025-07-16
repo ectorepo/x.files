@@ -152,5 +152,5 @@
   <project path="zaney/zaney-sync" name="ratfink417/zaney-sync" groups="nixos,hyprland" revision="refs/heads/main"/>
   <project path="alyraffauf/nixcfg" name="alyraffauf/nixcfg" groups="nixos,hyprland" revision="refs/heads/master"/>
   <project path="alyraffauf/secrets" name="alyraffauf/secrets" groups="nixos,hyprland" revision="refs/heads/master"/>
-  <project path="alyraffauf/bazzite" name="alyraffauf/bazzite" groups="nixos,hyprland" revision="refs/heads/master"/>
+  <project path="alyraffauf/bazznix" name="alyraffauf/bazznix" groups="nixos,hyprland" revision="refs/heads/master"/>
 </manifest>
