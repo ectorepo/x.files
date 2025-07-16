@@ -122,7 +122,7 @@
   <project path="fniessen/refcard-org-beamer" name="fniessen/refcard-org-beamer" groups="emacs,babel,dotfiles,pdf,latex" remote="github"/>
   <project path="fniessen/org-macros" name="fniessen/org-macros" groups="emacs,babel,dotfiles,bash" remote="github"/>
   <project path="fniessen/gnus-leuven" name="fniessen/gnus-leuven" groups="emacs,babel,email,gnus" remote="github"/>
-  <project path="fniessen/svn-leuven" name="fniessen/svn-leuven" groups="bash,dotfiles,vcs,svn" remote="github"/>
+  <project path="fniessen/svn-leuven" name="fniessen/svn-leuven" groups="bash,dotfiles,vcs,svn" revision="refs/heads/master" remote="github"/>
   <project path="fniessen/orgmk" name="fniessen/orgmk" groups="emacs,org,babel,pdf" remote="github"/>
   <project path="SystemCrafters/site" name="SystemCrafters/systemcrafters-site" remote="codeberg" groups="emacs,guix,dotfiles,i3,stump,sway"/>
   <project path="alexkehayias/emacs" name="alexkehayias/emacs.d" remote="github" groups="emacs,org,eglot"/>
