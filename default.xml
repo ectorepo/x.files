@@ -153,4 +153,5 @@
   <project path="alyraffauf/nixcfg" name="alyraffauf/nixcfg" groups="nixos,hyprland" revision="refs/heads/master"/>
   <project path="alyraffauf/secrets" name="alyraffauf/secrets" groups="nixos,hyprland" revision="refs/heads/master"/>
   <project path="alyraffauf/bazznix" name="alyraffauf/bazznix" groups="nixos,hyprland" revision="refs/heads/master"/>
+  <project path="budimanjojo/nix-config" name="budimanjojo/dotfiles" groups="nixos,hyprland,sway,nftables" revision="refs/heads/main"/>
 </manifest>
