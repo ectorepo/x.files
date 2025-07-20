@@ -97,7 +97,7 @@
   <project path="bling/emacs" name="bling/dotemacs" groups="emacs"/>
   <project path="xenodium/dotfiles" name="xenodium/dotsies" groups="emacs,mac" revision="refs/heads/main"/>
   <!-- <project path="akirak/emacs" name="akirak/emacs.d" groups="emacs,nix,literate" revision="refs/heads/maint"/> -->
-  <project path="akirak/emacs2" name="akirak/emacs-config" groups="emacs,nix,literate"/>
+  <project path="akirak/emacs2" name="akirak/emacs-config" groups="emacs,nixos,literate"/>
   <project path="alexluigit/emacs" name="alexluigit/emacs-grandview" groups="emacs,mac"/>
   <project path="ifreund/dotfiles" name="ifreund/dotfiles" groups="river,zig" revision="refs/heads/chimera"/>
   <project path="wasamasa/emacs" name="wasamasa/dotemacs" groups="emacs,scheme,clojure,lisp" revision="refs/heads/master"/>
@@ -112,8 +112,8 @@
   <project path="mk-fg/pkgbuild" name="mk-fg/archlinux-pkgbuilds" groups="arch,pkg" revision="refs/heads/master" remote="codeberg"/>
   <project path="mk-fg/emacs" name="mk-fg/emacs-setup" groups="emacs" revision="refs/heads/master" remote="codeberg"/>
   <project path="alhassy/emacs" name="alhassy/emacs.d" groups="emacs,macos,javascript,math" revision="refs/heads/master" remote="github"/>
-  <project path="youngker/emacs" name="youngker/emacs.d" groups="emacs,xmonad,nix,clojure" revision="refs/heads/master" remote="github"/>
-  <project path="youngker/nix" name="youngker/nix-config" groups="xmonad,nix,guix,clojure" revision="refs/heads/main" remote="github"/>
+  <project path="youngker/emacs" name="youngker/emacs.d" groups="emacs,xmonad,nixos,clojure" revision="refs/heads/master" remote="github"/>
+  <project path="youngker/nix" name="youngker/nix-config" groups="xmonad,nixos,guix,clojure" revision="refs/heads/main" remote="github"/>
   <project path="fniessen/emacs" name="fniessen/emacs-leuven" groups="emacs,babel,dotfiles" remote="github"/>
   <project path="fniessen/command-line-utilities-leuven" name="fniessen/command-line-utilities-leuven" groups="emacs,babel,dotfiles,bash" remote="github"/>
   <project path="fniessen/git-config-enhancements-leuven" name="fniessen/git-config-enhancements-leuven" groups="dotfiles,git,bash" remote="github"/>
@@ -135,7 +135,7 @@
   <project path="jjba23/dotfiles" name="jjba23/sss" groups="dotfiles,guix,sway,emacs" remote="codeberg" revision="refs/heads/trunk"/>
   <project path="hiecaq/dotfiles" name="hiecaq/guix-config" groups="dotfiles,guix,sway,emacs,vim" remote="github" revision="refs/heads/main"/>
   <project path="engstrand-config/dotfiles" name="engstrand-config/guix-dotfiles" groups="dotfiles,guix,rde,dwl" remote="github" revision="refs/heads/main"/>
-  <project path="purplg/dotfiles" name="purplg/dotfiles" groups="dotfiles,nix,sway,emacs,vim" remote="codeberg" revision="refs/heads/master"/>
+  <project path="purplg/dotfiles" name="purplg/dotfiles" groups="dotfiles,nixos,sway,emacs,vim" remote="codeberg" revision="refs/heads/master"/>
   <project path="dylanaraps/pure-sh-bible" name="dylanaraps/pure-sh-bible" groups="bash" remote="github" revision="refs/heads/master"/>
   <project path="dylanaraps/pure-bash-bible" name="dylanaraps/pure-bash-bible" groups="bash" remote="github" revision="refs/heads/master"/>
   <project path="llimllib/dotfiles" name="llimllib/personal_code" groups="bash" remote="github" revision="refs/heads/master"/>
@@ -145,7 +145,7 @@
   <project path="prasanthrangan/dotfiles" name="prasanthrangan/hyprdots" groups="hyprland,themes,bin" remote="github" revision="refs/heads/main"/>
   <project path="hyde-project/dotfiles" name="hyde-project/hyde" groups="hyprland,themes,bin" remote="github" revision="refs/heads/master"/>
   <project path="jessfraz/dotfiles" name="jessfraz/dotfiles" groups="i3,bin,bash" revision="refs/heads/main"/>
-  <project path="aylur/dotfiles" name="aylur/dotfiles" groups="nix,hyprland" revision="refs/heads/main"/>
+  <project path="aylur/dotfiles" name="aylur/dotfiles" groups="nixos,hyprland" revision="refs/heads/main"/>
   <project path="xero/dotfiles" name="xero/dotfiles" groups="bin,zsh,tmux,console" revision="refs/heads/main"/>
   <project path="mylinuxforwork/dotfiles" name="mylinuxforwork/dotfiles" groups="arch,hyprland" revision="refs/heads/main"/>
   <project path="zaney/zaneyos" name="Zaney/zaneyos" groups="nixos,hyprland" revision="refs/heads/main" remote="gitlab"/>
@@ -155,4 +155,24 @@
   <project path="alyraffauf/bazznix" name="alyraffauf/bazznix" groups="nixos,hyprland" revision="refs/heads/master"/>
   <project path="budimanjojo/nix-config" name="budimanjojo/dotfiles" groups="nixos,hyprland,sway,nftables,homelab" revision="refs/heads/main"/>
   <project path="ManoftheSea/SeaofDirac" name="ManoftheSea/SeaofDirac" groups="nixos,sway,nftables,homelab" revision="refs/heads/trunk"/>
+  <!-- eww dotfiles -->
+  <project name="dharmx/dharmx" path="dharmx/dotfiles" groups="eww,nvim,awesomewm" revision="refs/heads/main"/>
+  <project name="vermoot/dotfiles" path="vermoot/dotfiles" groups="eww,nvim,awesomewm,kmonad,rofi" revision="refs/heads/main"/>
+  <project name="battlesquid/dotfiles" path="battlesquid/dotfiles" groups="eww,nvim,bspwm,xmonad" revision="refs/heads/main"/>
+  <project name="janleigh/dotfiles" path="janleigh/dotfiles" groups="eww,nvim,bspwm,rofi" revision="refs/heads/master"/>
+  <project name="druskus20/dots" path="druskus20/dots" groups="eww,nvim,gtk,bspwm,kmonad,rofi" revision="refs/heads/master"/>
+  <project name="gh0stzk/dotfiles" path="gh0stzk/dotfiles" groups="eww,nvim,tmux,bspwm,kmonad,rofi" revision="refs/heads/master"/>
+  <project name="raexera/tokyo" path="raexera/dotfiles" groups="eww,nvim,bspwm,rofi" revision="refs/heads/main"/>
+  <project name="SoraTenshi/nixos-config" path="SoraTenshi/dotfiles" groups="eww,nvim,nixos,rofi" revision="refs/heads/main"/>
+  <project name="plasmaa0/NixOS-config" path="plasmaa0/dotfiles" groups="eww,nvim,nixos,rofi" revision="refs/heads/main"/>
+  <!-- syndrizzle/hotfiles: four branches: worm, bspwm, fvwm, spooky; some use eww, but 3+ years old -->
+  <!-- AlphaTechnolog/dotfiles-v2: five branches: awesome (vert+horiz), openbox, openbox, dkwm; also old & good -->
+  <!-- eww bar -->
+  <project name="XenophonLXH/xenobar" path="eww/xenobar" groups="eww,gtk" revision="refs/heads/main"/>
+  <project name="druskus20/eugh" path="eww/eugh" groups="eww,gtk" revision="refs/heads/master"/>
+  <project name="adi1090x/widgets" path="eww/adi-widgets" groups="eww,nvim,bspwm,rofi" revision="refs/heads/main"/>
+  <project name="KhalidWKhedr/Eww-Bar" path="eww/eww-bar-gtk" groups="eww,gtk" revision="refs/heads/main"/>
+  <project name="KhalidWKhedr/eww-notifier" path="eww/eww-notifier-dbus" groups="eww,gtk" revision="refs/heads/main"/>
+  <project name="dharmx/vile" path="eww/vile" groups="eww,gtk" revision="refs/heads/main"/>
+  <project name="Saimoomedits/eww-widgets" path="eww/eww-widgets" groups="eww,gtk" revision="refs/heads/main"/>
 </manifest>
