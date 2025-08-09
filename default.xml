@@ -175,4 +175,6 @@
   <project name="KhalidWKhedr/eww-notifier" path="eww/eww-notifier-dbus" groups="eww,gtk" revision="refs/heads/main"/>
   <project name="dharmx/vile" path="eww/vile" groups="eww,gtk" revision="refs/heads/main"/>
   <project name="Saimoomedits/eww-widgets" path="eww/eww-widgets" groups="eww,gtk" revision="refs/heads/main"/>
+  <!-- nixos -->
+  <project name="twigthecat/nixos" name="twigthecat/dotfiles" groups="nixos,hyprland", revision="refs/heads/main"/>
 </manifest>
