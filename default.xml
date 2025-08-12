@@ -177,4 +177,5 @@
   <project name="Saimoomedits/eww-widgets" path="eww/eww-widgets" groups="eww,gtk" revision="refs/heads/main"/>
   <!-- nixos -->
   <project name="twigthecat/nixos" name="twigthecat/dotfiles" groups="nixos,hyprland", revision="refs/heads/main"/>
+  <project name="NobbZ/nixos-configuration" name="NobbZ/dotfiles" groups="nixos", revision="refs/heads/main"/>
 </manifest>
