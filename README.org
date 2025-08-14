@@ -7,7 +7,7 @@
 **** TODO add users to xml
 + https://github.com/caisah/emacs.dz
 + https://git.sr.ht/~bkhl/dotfiles
-
++ https://elken.github.io/doom/#orgebbcf55
 
 * Notes
 
