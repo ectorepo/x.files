@@ -179,4 +179,5 @@
   <project name="twigthecat/nixos" path="twigthecat/dotfiles" groups="nixos,hyprland" revision="refs/heads/main" remote="disroot"/>
   <project name="NobbZ/nixos-config" path="NobbZ/dotfiles" groups="nixos" revision="refs/heads/main"/>
   <project path="Wroclaw/dotfiles" name="Wroclaw/nixos-configuration" groups="nixos,cosmic" revision="refs/heads/main" remote="proot" />
+  <project name="arichtman/nix" path="arichtman/dotfiles" groups="nixos,homelab,nftables" revision="refs/heads/main"/>
 </manifest>
