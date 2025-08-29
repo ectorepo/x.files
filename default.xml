@@ -189,6 +189,6 @@
   <project path="notashelf/dotfiles" name="notashelf/nyx" groups="nixos,hyprland,nvim,flakeparts" revision="refs/heads/main"/>
   <project path="notashelf/snippets" name="NotAShelf/nyxexprs" groups="nixos,snippets" revision="refs/heads/main"/>
   <project path="EmergentMind/dotfiles" name="EmergentMind/nix-config" groups="nixos,nvim,sops" revision="refs/heads/dev"/>
-  <project path="EmergentMind/sops-simple" name="EmergentMind/nixos-secrets-reference" groups="nixos,sops" revision="refs/heads/simple"/>
-  <project path="EmergentMind/sops-complex" name="EmergentMind/nixos-secrets-reference" groups="nixos,sops" revision="refs/heads/complex"/>
+  <project path="EmergentMind/sops-simple" name="EmergentMind/nix-secrets-reference" groups="nixos,sops" revision="refs/heads/simple"/>
+  <project path="EmergentMind/sops-complex" name="EmergentMind/nix-secrets-reference" groups="nixos,sops" revision="refs/heads/complex"/>
 </manifest>
