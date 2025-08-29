@@ -156,36 +156,36 @@
   <project path="budimanjojo/nix-config" name="budimanjojo/dotfiles" groups="nixos,hyprland,sway,nftables,homelab" revision="refs/heads/main"/>
   <project path="ManoftheSea/SeaofDirac" name="ManoftheSea/SeaofDirac" groups="nixos,sway,nftables,homelab" revision="refs/heads/trunk"/>
   <!-- eww dotfiles -->
-  <project name="dharmx/dharmx" path="dharmx/dotfiles" groups="eww,nvim,awesomewm" revision="refs/heads/main"/>
-  <project name="vermoot/dotfiles" path="vermoot/dotfiles" groups="eww,nvim,awesomewm,kmonad,rofi" revision="refs/heads/main"/>
-  <project name="battlesquid/dotfiles" path="battlesquid/dotfiles" groups="eww,nvim,bspwm,xmonad" revision="refs/heads/main"/>
-  <project name="janleigh/dotfiles" path="janleigh/dotfiles" groups="eww,nvim,bspwm,rofi" revision="refs/heads/master"/>
-  <project name="druskus20/dots" path="druskus20/dots" groups="eww,nvim,gtk,bspwm,kmonad,rofi" revision="refs/heads/master"/>
-  <project name="gh0stzk/dotfiles" path="gh0stzk/dotfiles" groups="eww,nvim,tmux,bspwm,kmonad,rofi" revision="refs/heads/master"/>
-  <project name="raexera/tokyo" path="raexera/dotfiles" groups="eww,nvim,bspwm,rofi" revision="refs/heads/main"/>
-  <project name="SoraTenshi/nixos-config" path="SoraTenshi/dotfiles" groups="eww,nvim,nixos,rofi" revision="refs/heads/main"/>
-  <project name="plasmaa0/NixOS-config" path="plasmaa0/dotfiles" groups="eww,nvim,nixos,rofi" revision="refs/heads/main"/>
+  <project path="dharmx/dotfiles" name="dharmx/dharmx" groups="eww,nvim,awesomewm" revision="refs/heads/main"/>
+  <project path="vermoot/dotfiles" name="vermoot/dotfiles" groups="eww,nvim,awesomewm,kmonad,rofi" revision="refs/heads/main"/>
+  <project path="battlesquid/dotfiles" name="battlesquid/dotfiles" groups="eww,nvim,bspwm,xmonad" revision="refs/heads/main"/>
+  <project path="janleigh/dotfiles" name="janleigh/dotfiles" groups="eww,nvim,bspwm,rofi" revision="refs/heads/master"/>
+  <project path="druskus20/dots" name="druskus20/dots" groups="eww,nvim,gtk,bspwm,kmonad,rofi" revision="refs/heads/master"/>
+  <project path="gh0stzk/dotfiles" name="gh0stzk/dotfiles" groups="eww,nvim,tmux,bspwm,kmonad,rofi" revision="refs/heads/master"/>
+  <project path="raexera/dotfiles" name="raexera/tokyo" groups="eww,nvim,bspwm,rofi" revision="refs/heads/main"/>
+  <project path="SoraTenshi/dotfiles" name="SoraTenshi/nixos-config" groups="eww,nvim,nixos,rofi" revision="refs/heads/main"/>
+  <project path="plasmaa0/dotfiles" name="plasmaa0/NixOS-config" groups="eww,nvim,nixos,rofi" revision="refs/heads/main"/>
   <!-- syndrizzle/hotfiles: four branches: worm, bspwm, fvwm, spooky; some use eww, but 3+ years old -->
   <!-- AlphaTechnolog/dotfiles-v2: five branches: awesome (vert+horiz), openbox, openbox, dkwm; also old & good -->
   <!-- eww bar -->
-  <project name="XenophonLXH/xenobar" path="eww/xenobar" groups="eww,gtk" revision="refs/heads/main"/>
-  <project name="druskus20/eugh" path="eww/eugh" groups="eww,gtk" revision="refs/heads/master"/>
-  <project name="adi1090x/widgets" path="eww/adi-widgets" groups="eww,nvim,bspwm,rofi" revision="refs/heads/main"/>
-  <project name="KhalidWKhedr/Eww-Bar" path="eww/eww-bar-gtk" groups="eww,gtk" revision="refs/heads/main"/>
-  <project name="KhalidWKhedr/eww-notifier" path="eww/eww-notifier-dbus" groups="eww,gtk" revision="refs/heads/main"/>
-  <project name="dharmx/vile" path="eww/vile" groups="eww,gtk" revision="refs/heads/main"/>
-  <project name="Saimoomedits/eww-widgets" path="eww/eww-widgets" groups="eww,gtk" revision="refs/heads/main"/>
+  <project path="eww/xenobar" name="XenophonLXH/xenobar" groups="eww,gtk" revision="refs/heads/main"/>
+  <project path="eww/eugh" name="druskus20/eugh" groups="eww,gtk" revision="refs/heads/master"/>
+  <project path="eww/adi-widgets" name="adi1090x/widgets" groups="eww,nvim,bspwm,rofi" revision="refs/heads/main"/>
+  <project path="eww/eww-bar-gtk" name="KhalidWKhedr/Eww-Bar" groups="eww,gtk" revision="refs/heads/main"/>
+  <project path="eww/eww-notifier-dbus" name="KhalidWKhedr/eww-notifier" groups="eww,gtk" revision="refs/heads/main"/>
+  <project path="eww/vile" name="dharmx/vile" groups="eww,gtk" revision="refs/heads/main"/>
+  <project path="eww/eww-widgets" name="Saimoomedits/eww-widgets" groups="eww,gtk" revision="refs/heads/main"/>
   <!-- nixos -->
-  <project name="twigthecat/nixos" path="twigthecat/dotfiles" groups="nixos,hyprland" revision="refs/heads/main" remote="disroot"/>
-  <project name="NobbZ/nixos-config" path="NobbZ/dotfiles" groups="nixos" revision="refs/heads/main"/>
+  <project path="twigthecat/dotfiles" name="twigthecat/nixos" groups="nixos,hyprland" revision="refs/heads/main" remote="disroot"/>
+  <project path="NobbZ/dotfiles" name="NobbZ/nixos-config" groups="nixos" revision="refs/heads/main"/>
   <project path="Wroclaw/dotfiles" name="Wroclaw/nixos-configuration" groups="nixos,cosmic" revision="refs/heads/main" remote="proot" />
-  <project name="arichtman/nix" path="arichtman/dotfiles" groups="nixos,homelab,nftables" revision="refs/heads/main"/>
-  <project name="AtaraxiaSjel/nixos-config" path="AtaraxiaSjel/dotfiles" groups="nixos,homelab,nftables" revision="refs/heads/dev"/>
-  <project name="simendsjo/dotfiles" path="simendsjo/dotfiles" groups="guix,nyxt,emacs" revision="refs/heads/main" remote="srht_simendsjo" />
-  <project name="anotherhadi/nixy" path="anotherhadi/dotfiles" groups="nixos,hyprland,oci" revision="refs/heads/main"/>
-  <project name="Mic92/dotfiles" path="Mic92/dotfiles" groups="nixos,hyprland,homelab,neovim,sops,oci" revision="refs/heads/main"/>
-  <project name="polarmutex/nix-config" path="polarmutex/dotfiles" groups="nixos,hyprland,homelab,emacs,oci" revision="refs/heads/main"/>
-  <project name="SquirrelModeller/squirrel-nixos" path="SquirrelModeller/dotfiles" groups="nixos,hyprland,emacs,flakeparts" revision="refs/heads/main"/>
-  <project name="notashelf/nyx" path="notashelf/dotfiles" groups="nixos,hyprland,nvim,flakeparts" revision="refs/heads/main"/>
-  <project name="NotAShelf/nyxexprs" path="notashelf/snippets" groups="nixos,snippets" revision="refs/heads/main"/>
+  <project path="arichtman/dotfiles" name="arichtman/nix" groups="nixos,homelab,nftables" revision="refs/heads/main"/>
+  <project path="AtaraxiaSjel/dotfiles" name="AtaraxiaSjel/nixos-config" groups="nixos,homelab,nftables" revision="refs/heads/dev"/>
+  <project path="simendsjo/dotfiles" name="dotfiles" groups="guix,nyxt,emacs" revision="refs/heads/main" remote="srht_simendsjo" />
+  <project path="anotherhadi/dotfiles" name="anotherhadi/nixy" groups="nixos,hyprland,oci" revision="refs/heads/main"/>
+  <project path="Mic92/dotfiles" name="Mic92/dotfiles" groups="nixos,hyprland,homelab,neovim,sops,oci" revision="refs/heads/main"/>
+  <project path="polarmutex/dotfiles" name="polarmutex/nix-config" groups="nixos,hyprland,homelab,emacs,oci" revision="refs/heads/main"/>
+  <project path="SquirrelModeller/dotfiles" name="SquirrelModeller/squirrel-nixos" groups="nixos,hyprland,emacs,flakeparts" revision="refs/heads/main"/>
+  <project path="notashelf/dotfiles" name="notashelf/nyx" groups="nixos,hyprland,nvim,flakeparts" revision="refs/heads/main"/>
+  <project path="notashelf/snippets" name="NotAShelf/nyxexprs" groups="nixos,snippets" revision="refs/heads/main"/>
 </manifest>
