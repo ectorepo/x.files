@@ -181,4 +181,11 @@
   <project path="Wroclaw/dotfiles" name="Wroclaw/nixos-configuration" groups="nixos,cosmic" revision="refs/heads/main" remote="proot" />
   <project name="arichtman/nix" path="arichtman/dotfiles" groups="nixos,homelab,nftables" revision="refs/heads/main"/>
   <project name="AtaraxiaSjel/nixos-config" path="AtaraxiaSjel/dotfiles" groups="nixos,homelab,nftables" revision="refs/heads/dev"/>
+  <project name="anotherhadi/nixy" path="anotherhadi/dotfiles" groups="nixos,hyprland,oci" revision="refs/heads/main"/>
+  <project name="Mic92/dotfiles" path="Mic92/dotfiles" groups="nixos,hyprland,homelab,neovim,sops,oci" revision="refs/heads/main"/>
+  <project name="polarmutex/nix-config" path="polarmutex/dotfiles" groups="nixos,hyprland,homelab,emacs,oci" revision="refs/heads/main"/>
+  <project name="SquirrelModeller/squirrel-nixos" path="SquirrelModeller/dotfiles" groups="nixos,hyprland,emacs,flakeparts" revision="refs/heads/main"/>
+  <project name="notashelf/nyx" path="notashelf/dotfiles" groups="nixos,hyprland,nvim,flakeparts" revision="refs/heads/main"/>
+  <project name="NotAShelf/nyxexprs" path="notashelf/snippets" groups="nixos,snippets" revision="refs/heads/main"/>
+  <project name="simendsjo/dotfiles" path="simendsjo/dotfiles" groups="guix,nyxt,emacs" revision="refs/heads/main"/>
 </manifest>
