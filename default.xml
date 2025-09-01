@@ -191,4 +191,8 @@
   <project path="EmergentMind/dotfiles" name="EmergentMind/nix-config" groups="nixos,nvim,sops" revision="refs/heads/dev"/>
   <project path="EmergentMind/sops-simple" name="EmergentMind/nix-secrets-reference" groups="nixos,sops" revision="refs/heads/simple"/>
   <project path="EmergentMind/sops-complex" name="EmergentMind/nix-secrets-reference" groups="nixos,sops" revision="refs/heads/complex"/>
+  <project path="nezia1/dotfiles" name="nezia1/flocon" groups="nixos,sops" revision="refs/heads/main"/>
+  <project path="llakala/dotfiles" name="llakala/nixos" groups="nixos,sops" revision="refs/heads/main"/>
+  <project path="lunarnovaa/dotfiles" name="Lunarnovaa/lunix" groups="nixos" revision="refs/heads/main"/>
+  <project path="cleverca22/dotfiles" name="cleverca22/nixos-configs" groups="nixos" revision="refs/heads/master"/>
 </manifest>
