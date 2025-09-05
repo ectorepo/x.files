@@ -54,7 +54,7 @@
   <project path="MenkeTechnologies/zpwr" name="MenkeTechnologies/zpwr" groups="MenkeTechnologies,dotfiles,frameworks"/>
   <project path="whitelynx/dotfiles" name="whitelynx/dotfiles" revision="refs/heads/main" groups="whitelynx,dotfiles,vim"/>
   <project path="thiagowfx/dotfiles" name="thiagowfx/.dotfiles" groups="thiagowfx,dotfiles,arch,i3,vim,alacritty"/>
-  <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar"/>
+  <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar,pipewire"/>
   <project path="sistematico/dotfiles" name="sistematico/majestic" groups="sistematico,dotfiles,arch,i3,vim,polybar"/>
   <project path="maximbaz/dotfiles" name="maximbaz/dotfiles" revision="refs/heads/main" groups="maximbaz,dotfiles,sway,kakoune,waybar"/>
   <project path="Jorengarenar/dotfiles" name="Jorengarenar/dotfiles" groups="Jorengarenar,dotfiles,bash,i3,vim"/>
@@ -186,7 +186,7 @@
   <project path="Mic92/dotfiles" name="Mic92/dotfiles" groups="nixos,hyprland,homelab,neovim,sops,oci" revision="refs/heads/main"/>
   <project path="polarmutex/dotfiles" name="polarmutex/nix-config" groups="nixos,hyprland,homelab,emacs,oci" revision="refs/heads/main"/>
   <project path="SquirrelModeller/dotfiles" name="SquirrelModeller/squirrel-nixos" groups="nixos,hyprland,emacs,flakeparts" revision="refs/heads/main"/>
-  <project path="notashelf/dotfiles" name="notashelf/nyx" groups="nixos,hyprland,nvim,flakeparts" revision="refs/heads/main"/>
+  <project path="notashelf/dotfiles" name="notashelf/nyx" groups="nixos,hyprland,nvim,flakeparts,pipewire" revision="refs/heads/main"/>
   <project path="notashelf/snippets" name="NotAShelf/nyxexprs" groups="nixos,snippets" revision="refs/heads/main"/>
   <project path="EmergentMind/dotfiles" name="EmergentMind/nix-config" groups="nixos,nvim,sops" revision="refs/heads/dev"/>
   <project path="EmergentMind/sops-simple" name="EmergentMind/nix-secrets-reference" groups="nixos,sops" revision="refs/heads/simple"/>
@@ -195,4 +195,6 @@
   <project path="llakala/dotfiles" name="llakala/nixos" groups="nixos,sops" revision="refs/heads/main"/>
   <project path="lunarnovaa/dotfiles" name="Lunarnovaa/lunix" groups="nixos" revision="refs/heads/main"/>
   <project path="cleverca22/dotfiles" name="cleverca22/nixos-configs" groups="nixos" revision="refs/heads/master"/>
+  <project path="disassembler/dotfiles" name="disassembler/network" groups="nixos" revision="refs/heads/master"/>
+  <project path="Notarin/dotfiles" name="Notarin/home-manager" groups="nixos" revision="refs/heads/main"/>
 </manifest>
