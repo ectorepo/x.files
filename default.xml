@@ -197,5 +197,5 @@
   <project path="cleverca22/dotfiles" name="cleverca22/nixos-configs" groups="nixos" revision="refs/heads/master"/>
   <project path="disassembler/dotfiles" name="disassembler/network" groups="nixos" revision="refs/heads/master"/>
   <project path="Notarin/dotfiles" name="Notarin/home-manager" groups="nixos" revision="refs/heads/main"/>
-  <project path="randomizedcoder/nixos" name="randomizedcoder/dotfiles" groups="nixos,homelab" revision="refs/heads/main"/>
+  <project path="randomizedcoder/dotfiles" name="randomizedcoder/nixos" groups="nixos,homelab" revision="refs/heads/main"/>
 </manifest>
