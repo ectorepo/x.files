@@ -141,7 +141,7 @@
   <project path="llimllib/dotfiles" name="llimllib/personal_code" groups="bash" remote="github" revision="refs/heads/master"/>
   <project path="LierB/dotfiles" name="LierB/dotfiles" groups="vim,hyprland,wal" remote="github" revision="refs/heads/master"/>
   <project path="eschulte/org-scraps" name="eschulte/org-scraps" groups="org,emacs,babel" remote="github" revision="refs/heads/master"/>
-  <project path="end-4/dotfiles" name="end-4/dots-hyprland" groups="hyprland,themes,wal" remote="github" revision="refs/heads/main"/>
+  <project path="end-4/dotfiles" name="end-4/dots-hyprland" groups="hyprland,themes,wal,quickshell" remote="github" revision="refs/heads/main"/>
   <project path="prasanthrangan/dotfiles" name="prasanthrangan/hyprdots" groups="hyprland,themes,bin" remote="github" revision="refs/heads/main"/>
   <project path="hyde-project/dotfiles" name="hyde-project/hyde" groups="hyprland,themes,bin" remote="github" revision="refs/heads/master"/>
   <project path="jessfraz/dotfiles" name="jessfraz/dotfiles" groups="i3,bin,bash" revision="refs/heads/main"/>
@@ -185,7 +185,7 @@
   <project path="anotherhadi/dotfiles" name="anotherhadi/nixy" groups="nixos,hyprland,oci" revision="refs/heads/main"/>
   <project path="Mic92/dotfiles" name="Mic92/dotfiles" groups="nixos,hyprland,homelab,neovim,sops,oci" revision="refs/heads/main"/>
   <project path="polarmutex/dotfiles" name="polarmutex/nix-config" groups="nixos,hyprland,homelab,emacs,oci" revision="refs/heads/main"/>
-  <project path="SquirrelModeller/dotfiles" name="SquirrelModeller/squirrel-nixos" groups="nixos,hyprland,emacs,flakeparts" revision="refs/heads/main"/>
+  <project path="SquirrelModeller/dotfiles" name="SquirrelModeller/squirrel-nixos" groups="nixos,hyprland,emacs,flakeparts,quickshell" revision="refs/heads/main"/>
   <project path="notashelf/dotfiles" name="notashelf/nyx" groups="nixos,hyprland,nvim,flakeparts,pipewire" revision="refs/heads/main"/>
   <project path="notashelf/snippets" name="NotAShelf/nyxexprs" groups="nixos,snippets" revision="refs/heads/main"/>
   <project path="EmergentMind/dotfiles" name="EmergentMind/nix-config" groups="nixos,nvim,sops" revision="refs/heads/dev"/>
@@ -197,4 +197,5 @@
   <project path="cleverca22/dotfiles" name="cleverca22/nixos-configs" groups="nixos" revision="refs/heads/master"/>
   <project path="disassembler/dotfiles" name="disassembler/network" groups="nixos" revision="refs/heads/master"/>
   <project path="Notarin/dotfiles" name="Notarin/home-manager" groups="nixos" revision="refs/heads/main"/>
+  <project path="randomizedcoder/nixos" name="randomizedcoder/dotfiles" groups="nixos,homelab" revision="refs/heads/main"/>
 </manifest>
