@@ -198,4 +198,5 @@
   <project path="disassembler/dotfiles" name="disassembler/network" groups="nixos" revision="refs/heads/master"/>
   <project path="Notarin/dotfiles" name="Notarin/home-manager" groups="nixos" revision="refs/heads/main"/>
   <project path="randomizedcoder/dotfiles" name="randomizedcoder/nixos" groups="nixos,homelab" revision="refs/heads/main"/>
+  <project path="JManch/dotfiles" name="JManch/nixos" groups="nixos,hyprland,uwsm,sops,homelab" revision="refs/heads/main"/>
 </manifest>
