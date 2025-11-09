@@ -199,4 +199,8 @@
   <project path="Notarin/dotfiles" name="Notarin/home-manager" groups="nixos" revision="refs/heads/main"/>
   <project path="randomizedcoder/dotfiles" name="randomizedcoder/nixos" groups="nixos,homelab" revision="refs/heads/main"/>
   <project path="JManch/dotfiles" name="JManch/nixos" groups="nixos,hyprland,uwsm,sops,homelab" revision="refs/heads/main"/>
+  <project path="Frank-Krick/wireplumber-experiments" name="Frank-Krick/wireplumber-experiments" groups="pipewire" revision="refs/heads/main"/>
+  <project path="redxtech/dotfiles" name="redxtech/nixfiles" groups="nixos,pipewire" revision="refs/heads/master"/>
+  <project path="sagayda/dotfiles" name="sagayda/dotfiles" groups="lua,pipewire" revision="refs/heads/master"/>
+  <project path="sahaj-b/dotfiles" name="sahaj-b/dotfiles" groups="bash,hyprland" revision="refs/heads/main"/>
 </manifest>
