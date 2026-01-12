@@ -65,7 +65,7 @@
   <project path="isti115/dotfiles" name="isti115/dotfiles" groups="isti115,dotfiles,pwsh,sway,vim,waybar"/>
   <project path="dpgraham4401/dotfiles" name="dpgraham4401/.dotfiles" groups="dpgraham4401,dotfiles,sway,ranger,sway,qute" revision="refs/heads/fedora"/>
   <!-- TODO: dpgraham4401 has archws and macbook branches -->
-  <project path="cjbassi/dotfiles" name="cjbassi/config" groups="cjbassi,dotfiles,sway,waybar,vim,nix,emacs"/>
+  <project path="cjbassi/dotfiles" name="cjbassi/config" groups="cjbassi,dotfiles,sway,waybar,vim,nixos,emacs"/>
   <project path="gtrunsec/dotfiles" name="GTrunSec/nixos-flk" groups="gtrunsec,dotfiles,emacs,nixos,i3"/>
   <project path="jsoo1/dotfiles" name="jsoo1/dotfiles" revision="refs/heads/release" groups="jsool,dotfiles,xmonad,guix,tmux"/>
   <project path="BonfaceKilz/emacs" name="BonfaceKilz/emacs.d" groups="BonfaceKils,emacs"/>
@@ -203,4 +203,5 @@
   <project path="redxtech/dotfiles" name="redxtech/nixfiles" groups="nixos,pipewire" revision="refs/heads/master"/>
   <project path="sagayda/dotfiles" name="sagayda/dotfiles" groups="lua,pipewire" revision="refs/heads/master"/>
   <project path="sahaj-b/dotfiles" name="sahaj-b/dotfiles" groups="bash,hyprland" revision="refs/heads/main"/>
+  <project path="matthewbauer/bauer" name="matthewbauer/emacs" groups="nixos,emacs,vim" remote="github" revision="refs/heads/master"/>
 </manifest>
