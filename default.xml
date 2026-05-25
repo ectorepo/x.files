@@ -6,7 +6,7 @@
   <project path="abo-abo/emacs" name="abo-abo/oremacs" revision="refs/heads/github" groups="abo-abo,emacs"/>
   <project path="bbatsov/emacs" name="bbatsov/emacs.d" groups="bbatsov,emacs"/>
   <project path="geolessel/dotfiles" name="geolessel/dotfiles" groups="geolessel,dotfiles" revision="refs/heads/main"/>
-  <project path="purcell/emacs" name="purcell/emacs.d" groups="purcell,emacs"/>
+  <project path="purcell/emacs" name="purcell/emacs.d" groups="purcell,emacs" revision="refs/heads/main"/>
   <project path="tuhdo/emacs" name="tuhdo/emacs-c-ide-demo" groups="tuhdo,emacs"/>
   <project path="karthink/emacs" name="karthink/.emacs.d" groups="karthink,emacs"/>
   <project path="hsinhaoyu/doom" name="hsinhaoyu/.emacs.d" groups="hsinhaoyu,doom"/>
@@ -28,7 +28,7 @@
   <project path="aborn/space" name="aborn/.spacemacs.d" groups="aborn,space"/>
   <project path="hlissner/dotfiles" name="hlissner/dotfiles" groups="hlissner,dotfiles"/>
   <project path="protesilaos/dotfiles" name="protesilaos/dotfiles.git" groups="protesilaos,dotfiles" remote="gitlab" fetch="refs/heads/master"/>
-  <project path="zzamboni/doom" name="zzamboni/dot-doom" groups="zzamboni,doom"/>
+  <project path="zzamboni/doom" name="zzamboni/dot-doom" groups="zzamboni,doom" revision="refs/heads/main"/>
   <project path="magnars/emacs" name="magnars/.emacs.d" groups="magnars,emacs"/>
   <project path="jkitchin/emacs" name="jkitchin/scimax" groups="jkitchin,emacs"/>
   <project path="MatthewZMD/emacs" name="MatthewZMD/.emacs.d" groups="MatthewZMD,emacs"/>
@@ -41,7 +41,7 @@
   <project path="hlissner/doom" name="hlissner/doom-emacs-private" groups="hlissner,doom"/>
   <project path="daedreth/emacs" name="daedreth/UncleDavesEmacs" groups="daedreth,emacs"/>
   <project path="joseph8th/emacs" name="joseph8th/literatemacs" groups="joseph8th,emacs" remote="gitlab"/>
-  <project path="rasendubi/emacs" name="rasendubi/dotfiles" groups="rasendubi,emacs"/>
+  <project path="rasendubi/emacs" name="rasendubi/dotfiles" groups="rasendubi,emacs" revision="refs/heads/main">
   <project path="TimQuelch/doom" name="TimQuelch/emacs.d" groups="TimQuelch,doom"/>
   <project path="frap/emacs" name="frap/emacs-literate" groups="frap,emacs"/>
   <project path="kubemacs/emacs" name="kubemacs/kubemacs" groups="kubemacs,emacs"/>
@@ -51,13 +51,13 @@
   <project path="dfeich/emacs-course-and-config" name="dfeich/emacs-course-and-config" groups="dfeich,emacs"/>
   <project path="jethrokuan/dotfiles" name="jethrokuan/dots" groups="jethrokuan,dotfiles,doom"/>
   <project path="jethrokuan/org" name="jethrokuan/braindump" groups="jethrokuan,org"/>
-  <project path="MenkeTechnologies/zpwr" name="MenkeTechnologies/zpwr" groups="MenkeTechnologies,dotfiles,frameworks"/>
+  <project path="MenkeTechnologies/zpwr" name="MenkeTechnologies/zpwr" groups="MenkeTechnologies,dotfiles,frameworks" revision="refs/heads/main"/>
   <project path="whitelynx/dotfiles" name="whitelynx/dotfiles" revision="refs/heads/main" groups="whitelynx,dotfiles,vim"/>
   <project path="thiagowfx/dotfiles" name="thiagowfx/.dotfiles" groups="thiagowfx,dotfiles,arch,i3,vim,alacritty"/>
   <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar,pipewire"/>
   <project path="sistematico/dotfiles" name="sistematico/majestic" groups="sistematico,dotfiles,arch,i3,vim,polybar"/>
   <project path="maximbaz/dotfiles" name="maximbaz/dotfiles" revision="refs/heads/main" groups="maximbaz,dotfiles,sway,kakoune,waybar"/>
-  <project path="Jorengarenar/dotfiles" name="Jorengarenar/dotfiles" groups="Jorengarenar,dotfiles,bash,i3,vim"/>
+  <project path="Jorenar/dotfiles" name="Jorenar/dotfiles" groups="Jorengarenar,dotfiles,bash,i3,vim"/>
   <project path="benmezger/dotfiles" name="benmezger/dotfiles" revision="refs/heads/main" groups="benmezger,dotfiles,i3,emacs,tmux"/>
   <project path="BVollmerhaus/dotfiles" name="BVollmerhaus/dotfiles" remote="gitlab" groups="BVollmerhaus,dotfiles,kitty,fish,kakoune,polybar"/>
   <project path="ambrevar/dotfiles" name="ambrevar/dotfiles" groups="ambrevar,dotfiles,zsh,bspwm,vim,polybar"/>
@@ -200,7 +200,7 @@
   <project path="randomizedcoder/dotfiles" name="randomizedcoder/nixos" groups="nixos,homelab" revision="refs/heads/main"/>
   <project path="JManch/dotfiles" name="JManch/nixos" groups="nixos,hyprland,uwsm,sops,homelab" revision="refs/heads/main"/>
   <project path="Frank-Krick/wireplumber-experiments" name="Frank-Krick/wireplumber-experiments" groups="pipewire" revision="refs/heads/main"/>
-  <project path="redxtech/dotfiles" name="redxtech/nixfiles" groups="nixos,pipewire" revision="refs/heads/master"/>
+  <project path="redxtech/dotfiles" name="redxtech/nixfiles" groups="nixos,pipewire" revision="refs/heads/main"/>
   <project path="sagayda/dotfiles" name="sagayda/dotfiles" groups="lua,pipewire" revision="refs/heads/master"/>
   <project path="sahaj-b/dotfiles" name="sahaj-b/dotfiles" groups="bash,hyprland" revision="refs/heads/main"/>
   <project path="matthewbauer/bauer" name="matthewbauer/emacs" groups="nixos,emacs,vim" remote="github" revision="refs/heads/master"/>
