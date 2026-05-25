@@ -204,5 +204,6 @@
   <project path="sagayda/dotfiles" name="sagayda/dotfiles" groups="lua,pipewire" revision="refs/heads/master"/>
   <project path="sahaj-b/dotfiles" name="sahaj-b/dotfiles" groups="bash,hyprland" revision="refs/heads/main"/>
   <project path="matthewbauer/bauer" name="matthewbauer/emacs" groups="nixos,emacs,vim" remote="github" revision="refs/heads/master"/>
-  <project path="qompassai/Diver" name="qompassai/vim" groups="arch,vim" remote="github" revision="refs/heads/main"/>
+  <project path="qompassai/vim" name="qompassai/Diver" groups="arch,vim,lua" remote="github" revision="refs/heads/main"/>
+  <project path="qompassai/wireplumber" name="qompassai/Lua" groups="arch,vim,pipewire,lua" remote="github" revision="refs/heads/main"/>
 </manifest>
