@@ -41,7 +41,7 @@
   <project path="hlissner/doom" name="hlissner/doom-emacs-private" groups="hlissner,doom"/>
   <project path="daedreth/emacs" name="daedreth/UncleDavesEmacs" groups="daedreth,emacs"/>
   <project path="joseph8th/emacs" name="joseph8th/literatemacs" groups="joseph8th,emacs" remote="gitlab"/>
-  <project path="rasendubi/emacs" name="rasendubi/dotfiles" groups="rasendubi,emacs" revision="refs/heads/main">
+  <project path="rasendubi/emacs" name="rasendubi/dotfiles" groups="rasendubi,emacs" revision="refs/heads/main"/>
   <project path="TimQuelch/doom" name="TimQuelch/emacs.d" groups="TimQuelch,doom"/>
   <project path="frap/emacs" name="frap/emacs-literate" groups="frap,emacs"/>
   <project path="kubemacs/emacs" name="kubemacs/kubemacs" groups="kubemacs,emacs"/>
