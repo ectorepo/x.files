@@ -57,7 +57,7 @@
   <project path="Scrumplex/dotfiles" name="Scrumplex/dotfiles" remote="gitlab" groups="Scrumplex,dotfiles,arch,fish,sway,waybar,pipewire"/>
   <project path="sistematico/dotfiles" name="sistematico/majestic" groups="sistematico,dotfiles,arch,i3,vim,polybar"/>
   <project path="maximbaz/dotfiles" name="maximbaz/dotfiles" revision="refs/heads/main" groups="maximbaz,dotfiles,sway,kakoune,waybar"/>
-  <project path="Jorenar/dotfiles" name="Jorenar/dotfiles" groups="Jorengarenar,dotfiles,bash,i3,vim"/>
+  <project path="Jorenar/dotfiles" name="Jorenar/dotfiles" groups="Jorengarenar,dotfiles,bash,i3,vim" remote="codeberg"/>
   <project path="benmezger/dotfiles" name="benmezger/dotfiles" revision="refs/heads/main" groups="benmezger,dotfiles,i3,emacs,tmux"/>
   <project path="BVollmerhaus/dotfiles" name="BVollmerhaus/dotfiles" remote="gitlab" groups="BVollmerhaus,dotfiles,kitty,fish,kakoune,polybar"/>
   <project path="ambrevar/dotfiles" name="ambrevar/dotfiles" groups="ambrevar,dotfiles,zsh,bspwm,vim,polybar"/>
