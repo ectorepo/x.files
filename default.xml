@@ -206,5 +206,5 @@
   <project path="matthewbauer/bauer" name="matthewbauer/emacs" groups="nixos,emacs,vim" remote="github" revision="refs/heads/master"/>
   <project path="qompassai/vim" name="qompassai/Diver" groups="arch,vim,lua" remote="github" revision="refs/heads/main"/>
   <project path="qompassai/wireplumber" name="qompassai/Lua" groups="arch,vim,pipewire,lua" remote="github" revision="refs/heads/main"/>
-  <project path="matthewcroughan/nixos" name="matthewcroughan/matthew-hardware" groups="nixos" remote="github" revision="refs/heads/master"/>
+  <project path="matthewcroughan/nixos" name="matthewcroughan/matthew-hardware" groups="nixos" remote="codeberg" revision="refs/heads/master"/>
 </manifest>
