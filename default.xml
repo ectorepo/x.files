@@ -181,7 +181,6 @@
   <project path="Wroclaw/dotfiles" name="Wroclaw/nixos-configuration" groups="nixos,cosmic" revision="refs/heads/main" remote="proot" />
   <project path="arichtman/dotfiles" name="arichtman/nix" groups="nixos,homelab,nftables" revision="refs/heads/main"/>
   <project path="AtaraxiaSjel/dotfiles" name="AtaraxiaSjel/nixos-config" groups="nixos,homelab,nftables" revision="refs/heads/dev"/>
-  <project path="simendsjo/dotfiles" name="dotfiles" groups="guix,nyxt,emacs" revision="refs/heads/main" remote="srht_simendsjo" />
   <project path="anotherhadi/dotfiles" name="anotherhadi/nixy" groups="nixos,hyprland,oci" revision="refs/heads/main"/>
   <project path="Mic92/dotfiles" name="Mic92/dotfiles" groups="nixos,hyprland,homelab,neovim,sops,oci" revision="refs/heads/main"/>
   <project path="polarmutex/dotfiles" name="polarmutex/nix-config" groups="nixos,hyprland,homelab,emacs,oci" revision="refs/heads/main"/>
@@ -207,4 +206,6 @@
   <project path="qompassai/vim" name="qompassai/Diver" groups="arch,vim,lua" remote="github" revision="refs/heads/main"/>
   <project path="qompassai/wireplumber" name="qompassai/Lua" groups="arch,vim,pipewire,lua" remote="github" revision="refs/heads/main"/>
   <project path="matthewcroughan/nixos" name="matthewcroughan/matthew-hardware" groups="nixos" remote="codeberg" revision="refs/heads/master"/>
+  <project path="simendsjo/dotfiles" name="dotfiles" groups="guix,nyxt,emacs" revision="refs/heads/main" remote="srht_simendsjo" />
+  <project path="hako/dotfiles" name="hako/Testament" groups="guix,emacs" revision="refs/heads/trunk" remote="codeberg" />
 </manifest>
