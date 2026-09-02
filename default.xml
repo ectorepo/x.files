@@ -208,4 +208,6 @@
   <project path="matthewcroughan/nixos" name="matthewcroughan/matthew-hardware" groups="nixos" remote="codeberg" revision="refs/heads/master"/>
   <project path="simendsjo/dotfiles" name="dotfiles" groups="guix,nyxt,emacs" revision="refs/heads/main" remote="srht_simendsjo" />
   <project path="hako/dotfiles" name="hako/Testament" groups="guix,emacs" revision="refs/heads/trunk" remote="codeberg" />
+  <project path="agzam/doom" name="agzam/.doom.d" groups="emacs" revision="refs/heads/main" remote="github" />
+  <project path="agzam/emacs" name="agzam/.emacs.d" groups="emacs" revision="refs/heads/main" remote="github" />
 </manifest>
