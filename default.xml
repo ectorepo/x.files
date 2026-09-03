@@ -36,7 +36,7 @@
   <project path="ocodo/emacs" name="ocodo/.emacs.d" groups="ocodo/.emacs.d"/>
   <project path="monkeyjunglejuice/emacs" name="monkeyjunglejuice/emacs.onboard" groups="monkeyjunglejuice,emacs" revision="refs/heads/main"/>
   <project path="sunnyhasija/doom" name="sunnyhasija/Academic-Doom-Emacs-Config" groups="sunnyhasija,doom"/>
-  <project path="sachac/emacs" name="sachac/.emacs.d" groups="sachac,emacs"/>
+  <project path="sachac/emacs" name="sachac/.emacs.d" revision="refs/heads/gh-pages" groups="sachac,emacs" />
   <project path="zamansky/emacs" name="zamansky/dot-emacs" revision="refs/heads/main" groups="zamansky,emacs"/>
   <project path="hlissner/doom" name="hlissner/doom-emacs-private" groups="hlissner,doom"/>
   <project path="daedreth/emacs" name="daedreth/UncleDavesEmacs" groups="daedreth,emacs"/>
