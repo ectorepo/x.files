@@ -210,4 +210,5 @@
   <project path="hako/dotfiles" name="hako/Testament" groups="guix,emacs" revision="refs/heads/trunk" remote="codeberg" />
   <project path="agzam/doom" name="agzam/.doom.d" groups="emacs" revision="refs/heads/main" remote="github" />
   <project path="agzam/emacs" name="agzam/.emacs.d" groups="emacs" revision="refs/heads/main" remote="github" />
+  <project path="dominicegginton/dotfiles" name="dominicegginton/dotfiles" groups="nixos,terraform" revision="refs/heads/main" remote="github" />
 </manifest>
