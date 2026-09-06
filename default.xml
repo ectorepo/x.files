@@ -211,6 +211,6 @@
   <project path="agzam/doom" name="agzam/.doom.d" groups="emacs" revision="refs/heads/main" remote="github" />
   <project path="agzam/emacs" name="agzam/.emacs.d" groups="emacs" revision="refs/heads/main" remote="github" />
   <project path="dominicegginton/dotfiles" name="dominicegginton/dotfiles" groups="nixos,terraform" revision="refs/heads/main" remote="github" />
-  <project path="reverb256/Reverb-OS" name="reverb256/dotfiles" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
-  <project path="reverb256/nixos-config" name="reverb256/nixos" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
+  <project path="reverb256/dotfiles" name="reverb256/Reverb-OS" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
+  <project path="reverb256/nixos" name="reverb256/nixos-config" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
 </manifest>
