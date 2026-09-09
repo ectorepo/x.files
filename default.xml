@@ -213,4 +213,5 @@
   <project path="dominicegginton/dotfiles" name="dominicegginton/dotfiles" groups="nixos,terraform" revision="refs/heads/main" remote="github" />
   <project path="reverb256/dotfiles" name="reverb256/Reverb-OS" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
   <project path="reverb256/nixos" name="reverb256/nixos-config" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
+  <project path="christiancmoises/guix-config" name="christiancmoises/guix" groups="guix,xlibre,emacs" revision="refs/heads/main" remote="securityops_co" />
 </manifest>
