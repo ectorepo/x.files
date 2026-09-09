@@ -214,6 +214,7 @@
   <project path="reverb256/dotfiles" name="reverb256/Reverb-OS" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
   <project path="reverb256/nixos" name="reverb256/nixos-config" groups="nixos,omarchy" revision="refs/heads/main" remote="github" />
   <project path="cristiancmoises/guix" name="cristiancmoises/guix-config" groups="guix,xlibre,emacs" revision="refs/heads/main" remote="securityops_co" />
+  <project path="cristiancmoises/securityops-os" name="cristiancmoises/securityops-os" groups="guix,xlibre,emacs" revision="refs/heads/main" remote="securityops_co" />
   <project path="aurtzy/guix" name="aurtzy/guix-config" groups="guix,emacs" revision="refs/heads/master" remote="github" />
   <project path="franzos/dotfiles" name="franzos/guix-config" groups="guix,emacs" revision="refs/heads/master" remote="github" />
 </manifest>
