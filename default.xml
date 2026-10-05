@@ -217,5 +217,9 @@
   <project path="cristiancmoises/securityops-os" name="cristiancmoises/securityops-os" groups="guix,xlibre,emacs" revision="refs/heads/main" remote="securityops_co" />
   <project path="aurtzy/guix" name="aurtzy/guix-config" groups="guix,emacs" revision="refs/heads/master" remote="github" />
   <project path="franzos/dotfiles" name="franzos/dotfiles" groups="guix,emacs" revision="refs/heads/master" remote="github" />
-  <project path="anemofilia/dotfiles" name="anemofilia/zero" groups="guix,emacs" revision="refs/heads/main" remote="codeberg" />
+  <project path="anemofilia/dotfiles" name="anemofilia/zero" groups="guix,emacs,sops" revision="refs/heads/main" remote="codeberg" />
+  <project path="ashebanow/dotfiles" name="ashebanow/nix-config" groups="nixos,secretspec,devenv" revision="refs/heads/main" remote="github" />
+  <project path="overby-me/dotfiles" name="overby-me/overby-me" groups="nixos,secretspec" revision="refs/heads/main" remote="github" />
+  <project path="aspauldingcode/dotfiles" name="aspauldingcode/.dotfiles" groups="nixos,secretspec" revision="refs/heads/master" remote="github" />
+  <project path="jessenieboer/dotfiles" name="jessenieboer/personal_workplace" groups="nixos,secretspec" revision="refs/heads/master" remote="github" />
 </manifest>
