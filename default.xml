@@ -216,6 +216,6 @@
   <project path="cristiancmoises/guix" name="cristiancmoises/guix-config" groups="guix,xlibre,emacs" revision="refs/heads/main" remote="securityops_co" />
   <project path="cristiancmoises/securityops-os" name="cristiancmoises/securityops-os" groups="guix,xlibre,emacs" revision="refs/heads/main" remote="securityops_co" />
   <project path="aurtzy/guix" name="aurtzy/guix-config" groups="guix,emacs" revision="refs/heads/master" remote="github" />
-  <project path="franzos/dotfiles" name="franzos/guix-config" groups="guix,emacs" revision="refs/heads/master" remote="github" />
-  <project path="anemofilia/dotfiles" name="anemofilia/zero" groups="guix,emacs" revision="refs/heads/main" remote="github" />
+  <project path="franzos/dotfiles" name="franzos/dotfiles" groups="guix,emacs" revision="refs/heads/master" remote="github" />
+  <project path="anemofilia/dotfiles" name="anemofilia/zero" groups="guix,emacs" revision="refs/heads/main" remote="codeberg" />
 </manifest>
