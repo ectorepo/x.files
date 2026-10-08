@@ -222,4 +222,6 @@
   <project path="overby-me/dotfiles" name="overby-me/overby-me" groups="nixos,secretspec" revision="refs/heads/main" remote="github" />
   <project path="aspauldingcode/dotfiles" name="aspauldingcode/.dotfiles" groups="nixos,secretspec" revision="refs/heads/master" remote="github" />
   <project path="jessenieboer/dotfiles" name="jessenieboer/personal_workplace" groups="nixos,secretspec" revision="refs/heads/master" remote="github" />
+  <project path="badele/dotfiles" name="badele/nix-homelab" groups="nixos,homelab,stepca" revision="refs/heads/main" remote="github" />
+  <project path="briggsbastian/dotfiles" name="briggsbastian/nixos-config" groups="nixos,homelab,stepca" revision="refs/heads/main" remote="github" />
 </manifest>
