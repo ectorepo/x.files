@@ -224,4 +224,7 @@
   <project path="jessenieboer/dotfiles" name="jessenieboer/personal_workplace" groups="nixos,secretspec" revision="refs/heads/master" remote="github" />
   <project path="badele/dotfiles" name="badele/nix-homelab" groups="nixos,homelab,stepca" revision="refs/heads/main" remote="github" />
   <project path="briggsbastian/dotfiles" name="briggsbastian/nixos-config" groups="nixos,homelab,stepca" revision="refs/heads/main" remote="github" />
+  <project path="jylhis/dotfiles" name="jylhis/marchyo" groups="nixos,omarchy,quickshell" revision="refs/heads/main" remote="github" />
+  <project path="jylhis/emacs" name="jylhis/jotain" groups="nixos,emacs" revision="refs/heads/main" remote="github" />
+  <project path="bashbunni/dotfiles" name="bashbunni/dotfiles" groups="nixos,doom,emacs" revision="refs/heads/main" remote="github" />
 </manifest>
