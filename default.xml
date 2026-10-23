@@ -227,4 +227,5 @@
   <project path="jylhis/dotfiles" name="jylhis/marchyo" groups="nixos,omarchy,quickshell" revision="refs/heads/main" remote="github" />
   <project path="jylhis/emacs" name="jylhis/jotain" groups="nixos,emacs" revision="refs/heads/main" remote="github" />
   <project path="bashbunni/dotfiles" name="bashbunni/dotfiles" groups="nixos,doom,emacs" revision="refs/heads/main" remote="github" />
+  <project path="johnrtitor/dotfiles" name="johnrtitor/nix-conf" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
 </manifest>
