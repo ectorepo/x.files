@@ -228,4 +228,7 @@
   <project path="jylhis/emacs" name="jylhis/jotain" groups="nixos,emacs" revision="refs/heads/main" remote="github" />
   <project path="bashbunni/dotfiles" name="bashbunni/dotfiles" groups="nixos,doom,emacs" revision="refs/heads/main" remote="github" />
   <project path="johnrtitor/dotfiles" name="johnrtitor/nix-conf" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
+  <project path="ALH477/dotfiles" name="alh477/oligarchy" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
+  <project path="ALH477/archibaldos" name="alh477/ArchibaldOS" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
+  <project path="ALH477/demod" name="alh477/DeMoD" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
 </manifest>
