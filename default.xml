@@ -231,4 +231,5 @@
   <project path="ALH477/dotfiles" name="alh477/oligarchy" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
   <project path="ALH477/archibaldos" name="alh477/ArchibaldOS" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
   <project path="ALH477/demod" name="alh477/DeMoD" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
+  <project path="mihakrumpestar/dotfiles" name="mihakrumpestar/infrastructure" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
 </manifest>
