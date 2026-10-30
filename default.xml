@@ -232,4 +232,6 @@
   <project path="ALH477/archibaldos" name="alh477/ArchibaldOS" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
   <project path="ALH477/demod" name="alh477/DeMoD" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
   <project path="mihakrumpestar/dotfiles" name="mihakrumpestar/infrastructure" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
+  <project path="ErikBPF/dotfiles" name="ErikBPF/homelab-iac" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
+  <project path="NikodemMarek/dotfiles" name="NikodemMarek/infra" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
 </manifest>
