@@ -235,4 +235,5 @@
   <project path="ErikBPF/dotfiles" name="ErikBPF/homelab-iac" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
   <project path="NikodemMarek/dotfiles" name="NikodemMarek/infra" groups="nixos,neovim" revision="refs/heads/main" remote="github" />
   <project path="funkymonkeymonk/dotfiles" name="funkymonkeymonk/nix" groups="nixos,homelab,devenv" revision="refs/heads/main" remote="github" />
+  <project path="leigh-hackspace/infrastructure-nix-flake" name="leigh-hackspace/dotfiles" groups="nixos,homelab,devenv" revision="refs/heads/main" remote="github" />
 </manifest>
